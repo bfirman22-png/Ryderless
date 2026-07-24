@@ -1,0 +1,999 @@
+match_id,year,course,format,day,east_1,east_2,west_1,west_2,winner,margin,holes_played
+0,1996,Apple Tree,Best Ball,1,Terry Firman,Forrey Eastham,Jim Martinson,George Fowler III,East,4 & 3,15
+1,1996,Apple Tree,Best Ball,1,Greg Mooney,Frank Manterola,Keith Joyal,Ray Dukes,West,6 & 5,13
+2,1996,Apple Tree,Best Ball,1,Gary Winegar,Shawn Hedrick,Bert Evans,Scott Rasmussen,East,1 up,18
+3,1996,Apple Tree,Best Ball,1,Bill Benson,Jack Leinbach,Rick Day,Steve Day,West,6 & 5,13
+4,1996,Apple Tree,Best Ball,1,Joe Gehlen,Gerry Gotch,Dan Hoff,Scott Wilson,East,6 & 4,14
+5,1996,Apple Tree,Best Ball,1,Norm Woods,David Nelson,Kevin Cruze,Robe Corsi,East,5 & 3,15
+6,1996,Apple Tree,Singles,2,Gerry Gotch,,Jim Martinson,,West,4 & 3,15
+7,1996,Apple Tree,Singles,2,Shawn Hedrick,,Keith Joyal,,East,2 & 1,17
+8,1996,Apple Tree,Singles,2,Gary Winegar,,Bert Evans,,West,5 & 4,14
+9,1996,Apple Tree,Singles,2,Joe Gehlen,,George Fowler III,,East,3 & 2,16
+10,1996,Apple Tree,Singles,2,Bill Benson,,Scott Rasmussen,,West,5 & 4,14
+11,1996,Apple Tree,Singles,2,Norm Woods,,Kevin Cruze,,East,1 up,18
+12,1996,Apple Tree,Singles,2,Forrey Eastham,,Ray Dukes,,West,4 & 3,15
+13,1996,Apple Tree,Singles,2,David Nelson,,Steve Day,,West,6 & 5,13
+14,1996,Apple Tree,Singles,2,Frank Manterola,,Robe Corsi,,West,9 & 8,10
+15,1996,Apple Tree,Singles,2,Jack Leinbach,,Rick Day,,East,6 & 5,13
+16,1996,Apple Tree,Singles,2,Greg Mooney,,Dan Hoff,,West,5 & 4,14
+17,1996,Apple Tree,Singles,2,Terry Firman,,Scott Wilson,,East,4 & 3,15
+18,1997,Merriwood,Best Ball,1,Gary Winegar,Frank Manterola,Dan Hoff,Scott Wilson,Halved,Halved,18
+19,1997,Merriwood,Best Ball,1,Joe Gehlen,Forrey Eastham,Scott Rasmussen,Robe Corsi,East,1 up,18
+20,1997,Merriwood,Best Ball,1,Greg Mooney,Shawn Hedrick,Bert Evans,Scott Evans,West,4 & 2,16
+21,1997,Merriwood,Best Ball,1,"Ralph Smith, Jr.",Jack Leinbach,Steve Day,Rick Day,East,1 up,18
+22,1997,Merriwood,Best Ball,1,Bill Benson,Gerry Gotch,Keith Joyal,Ray Dukes,East,5 & 4,14
+23,1997,Merriwood,Best Ball,1,Norm Woods,David Nelson,George Fowler III,Jim Martinson,West,2 & 1,17
+24,1997,Merriwood,Best Ball,1,Terry Firman,Dan Rossow,Dan Powell,Mick Martinson,East,4 & 2,16
+25,1997,Merriwood,Singles,2,David Nelson,,Steve Day,,East,4 & 3,15
+26,1997,Merriwood,Singles,2,Frank Manterola,,Ray Dukes,,East,2 & 1,17
+27,1997,Merriwood,Singles,2,Jack Leinbach,,Robe Corsi,,West,4 & 3,15
+28,1997,Merriwood,Singles,2,Forrey Eastham,,Rick Day,,East,1 up,18
+29,1997,Merriwood,Singles,2,Norm Woods,,Scott Wilson,,East,5 & 3,15
+30,1997,Merriwood,Singles,2,Shawn Hedrick,,Mick Martinson,,West,1 up,18
+31,1997,Merriwood,Singles,2,Bill Benson,,Jim Martinson,,Halved,Halved,18
+32,1997,Merriwood,Singles,2,"Ralph Smith, Jr.",,Scott Rasmussen,,West,4 & 3,15
+33,1997,Merriwood,Singles,2,Gerry Gotch,,Keith Joyal,,West,2 up,18
+34,1997,Merriwood,Singles,2,Dan Rossow,,Marty Nehl,,West,3 & 1,17
+35,1997,Merriwood,Singles,2,Terry Firman,,Dan Powell,,West,2 up,18
+36,1997,Merriwood,Singles,2,Gary Winegar,,Bert Evans,,Halved,Halved,18
+37,1997,Merriwood,Singles,2,Greg Mooney,,Dan Hoff,,East,2 up,18
+38,1997,Merriwood,Singles,2,Joe Gehlen,,George Fowler III,,West,5 & 4,14
+39,1998,Desert Canyon,Best Ball,1,Forrey Eastham,Dan Rossow,Scott Wilson,Rick Day,West,3 & 2,16
+40,1998,Desert Canyon,Best Ball,1,Denny Clark,Jon Mengelos,Steve Day,George Fowler III,East,4 & 2,16
+41,1998,Desert Canyon,Best Ball,1,Joe Gehlen,Bill Benson,Jay Young,Ray Dukes,West,3 & 2,16
+42,1998,Desert Canyon,Best Ball,1,Gerry Gotch,Gary Winegar,Marty Nehl,Dan Powell,West,4 & 2,16
+43,1998,Desert Canyon,Best Ball,1,Frank Manterola,Norm Woods,Jim Martinson,Robe Corsi,West,4 & 3,15
+44,1998,Desert Canyon,Best Ball,1,David Nelson,Terry Firman,Keith Joyal,Bert Evans,West,2 & 1,17
+45,1998,Desert Canyon,Best Ball,1,Jack Leinbach,Greg Mooney,Dan Hoff,Mick Martinson,Halved,Halved,18
+46,1998,Desert Canyon,Singles,2,Joe Gehlen,,Dan Powell,,West,1 up,18
+47,1998,Desert Canyon,Singles,2,Gerry Gotch,,Scott Wilson,,Halved,Halved,18
+48,1998,Desert Canyon,Singles,2,Jack Leinbach,,Marty Nehl,,West,2 up,18
+49,1998,Desert Canyon,Singles,2,Greg Mooney,,George Fowler III,,West,4 & 3,15
+50,1998,Desert Canyon,Singles,2,Denny Clark,,Ray Dukes,,East,5 & 3,15
+51,1998,Desert Canyon,Singles,2,Dan Rossow,,Rick Day,,East,7 & 6,12
+52,1998,Desert Canyon,Singles,2,Gary Winegar,,Dan Hoff,,West,5 & 4,14
+53,1998,Desert Canyon,Singles,2,Forrey Eastham,,Steve Day,,East,4 & 3,15
+54,1998,Desert Canyon,Singles,2,Norm Woods,,Mick Martinson,,West,1 up,18
+55,1998,Desert Canyon,Singles,2,David Nelson,,Jim Martinson,,West,3 & 2,16
+56,1998,Desert Canyon,Singles,2,Frank Manterola,,Keith Joyal,,East,2 up,18
+57,1998,Desert Canyon,Singles,2,Bill Benson,,Robe Corsi,,West,7 & 5,13
+58,1998,Desert Canyon,Singles,2,Jon Mengelos,,Jay Young,,West,4 & 3,15
+59,1998,Desert Canyon,Singles,2,Terry Firman,,Bert Evans,,West,3 & 2,16
+60,1999,Port Ludlow,Best Ball,1,Mike Cole,Denny Clark,Keith Joyal,Bert Evans,East,1 up,18
+61,1999,Port Ludlow,Best Ball,1,Kori Winegar,Forrey Eastham,George Fowler III,Steve Day,West,5 & 3,15
+62,1999,Port Ludlow,Best Ball,1,Joe Gehlen,Gerry Gotch,Marty Nehl,R Mathiesen,West,3 & 1,17
+63,1999,Port Ludlow,Best Ball,1,Lynn Jenison,David Nelson,Jim Martinson,Robe Corsi,East,2 & 1,17
+64,1999,Port Ludlow,Best Ball,1,Terry Firman,Frank Manterola,Dan Hoff,Mick Martinson,Halved,Halved,18
+65,1999,Port Ludlow,Best Ball,1,Gary Winegar,Jack Leinbach,Jay Young,Ray Dukes,West,4 & 2,16
+66,1999,Port Ludlow,Best Ball,1,"Ralph Smith, Jr.",Shawn Hedrick,Tommy Armour,Scott Wilson,West,2 & 1,17
+67,1999,Port Ludlow,Best Ball,1,Norm Woods,Bill Benson,Rick Day,Scott Rasmussen,West,4 & 3,15
+68,1999,Port Ludlow,Singles,2,Lynn Jenison,,Bert Evans,,Halved,Halved,18
+69,1999,Port Ludlow,Singles,2,Gerry Gotch,,Dan Hoff,,West,2 up,18
+70,1999,Port Ludlow,Singles,2,Denny Clark,,Steve Day,,East,3 & 1,17
+71,1999,Port Ludlow,Singles,2,Frank Manterola,,Marty Nehl,,East,3 & 2,16
+72,1999,Port Ludlow,Singles,2,Kori Winegar,,Mick Martinson,,West,2 & 1,17
+73,1999,Port Ludlow,Singles,2,"Ralph Smith, Jr.",,Tommy Armour,,West,4 & 3,15
+74,1999,Port Ludlow,Singles,2,Joe Gehlen,,Robe Corsi,,East,5 & 4,14
+75,1999,Port Ludlow,Singles,2,Gary Winegar,,Jay Young,,East,5 & 4,14
+76,1999,Port Ludlow,Singles,2,Bill Benson,,Ray Dukes,,West,1 up,18
+77,1999,Port Ludlow,Singles,2,Jack Leinbach,,Keith Joyal,,West,3 & 2,16
+78,1999,Port Ludlow,Singles,2,Norm Woods,,George Fowler III,,East,2 & 1,17
+79,1999,Port Ludlow,Singles,2,David Nelson,,Rick Day,,East,2 & 1,17
+80,1999,Port Ludlow,Singles,2,Shawn Hedrick,,Scott Rasmussen,,West,3 & 1,17
+81,1999,Port Ludlow,Singles,2,Mike Cole,,Dan Powell,,West,4 & 2,16
+82,1999,Port Ludlow,Singles,2,Forrey Eastham,,Scott Wilson,,East,2 & 1,17
+83,1999,Port Ludlow,Singles,2,Terry Firman,,Jim Martinson,,East,4 & 3,15
+84,2000,Columbia Pointe,Best Ball,1,Lynn Jenison,Frank Manterola,Bert Evans,Ken Enyeart,West,1 up,18
+85,2000,Columbia Pointe,Best Ball,1,Joe Gehlen,Paul Chrismer,Jim Martinson,Steve Day,West,4 & 3,15
+86,2000,Columbia Pointe,Best Ball,1,Terry Firman,Shawn Hedrick,Tommy Armour,Dan Wigg,West,1 up,18
+87,2000,Columbia Pointe,Best Ball,1,Norm Woods,Jack Leinbach,Dan Hoff,Devin Carle,West,1 up,18
+88,2000,Columbia Pointe,Best Ball,1,Mike Cole,David Nelson,Marty Nehl,Scott Wilson,East,2 & 1,17
+89,2000,Columbia Pointe,Best Ball,1,Doug Keith,Gerry Gotch,Dan Powell,Ray Dukes,East,4 & 3,15
+90,2000,Columbia Pointe,Best Ball,1,Forrey Eastham,"Ralph Smith, Jr.",George Fowler III,Keith Joyal,East,2 & 1,17
+91,2000,Columbia Pointe,Best Ball,1,Gary Winegar,Denny Clark,Mick Martinson,Rick Day,West,4 & 2,16
+92,2000,Columbia Pointe,Singles,2,Terry Firman,,George Fowler III,,West,2 up,18
+93,2000,Columbia Pointe,Singles,2,Norm Woods,,Devin Carle,,West,5 & 4,14
+94,2000,Columbia Pointe,Singles,2,Gary Winegar,,Mick Martinson,,West,3 & 1,17
+95,2000,Columbia Pointe,Singles,2,Forrey Eastham,,Keith Joyal,,Halved,Halved,18
+96,2000,Columbia Pointe,Singles,2,Mike Cole,,Jim Martinson,,East,2 & 1,17
+97,2000,Columbia Pointe,Singles,2,Joe Gehlen,,Bert Evans,,West,5 & 3,15
+98,2000,Columbia Pointe,Singles,2,Shawn Hedrick,,Dan Wigg,,West,2 & 1,17
+99,2000,Columbia Pointe,Singles,2,Gerry Gotch,,Steve Day,,East,2 & 1,17
+100,2000,Columbia Pointe,Singles,2,Jack Leinbach,,Ray Dukes,,Halved,Halved,18
+101,2000,Columbia Pointe,Singles,2,David Nelson,,Marty Nehl,,East,1 up,18
+102,2000,Columbia Pointe,Singles,2,Doug Keith,,Scott Wilson,,Halved,Halved,18
+103,2000,Columbia Pointe,Singles,2,Denny Clark,,Rick Day,,East,5 & 4,14
+104,2000,Columbia Pointe,Singles,2,Frank Manterola,,Ken Enyeart,,East,1 up,18
+105,2000,Columbia Pointe,Singles,2,Paul Chrismer,,Tommy Armour,,East,5 & 4,14
+106,2000,Columbia Pointe,Singles,2,Lynn Jenison,,Dan Powell,,West,1 up,18
+107,2000,Columbia Pointe,Singles,2,"Ralph Smith, Jr.",,Dan Hoff,,Halved,Halved,18
+108,2001,Homestead Farms,Best Ball,1,Shawn Hedrick,Norm Woods,George Fowler III,Keith Joyal,East,4 & 2,16
+109,2001,Homestead Farms,Best Ball,1,Joe Gehlen,David Nelson,Scott Wilson,Robe Corsi,East,3 & 1,17
+110,2001,Homestead Farms,Best Ball,1,Lynn Jenison,Gerry Gotch,Tommy Armour,Doug Banks,East,3 & 2,16
+111,2001,Homestead Farms,Best Ball,1,Terry Firman,Terry Dirks,Rick Day,Jay Young,East,2 & 1,17
+112,2001,Homestead Farms,Best Ball,1,Mike Cole,Jack Leinbach,Jim Martinson,Marty Nehl,East,2 & 1,17
+113,2001,Homestead Farms,Best Ball,1,"Ralph Smith, Jr.",Forrey Eastham,Dan Hoff,Devin Carle,West,1 up,18
+114,2001,Homestead Farms,Best Ball,1,Doug Keith,Paul Chrismer,Mick Martinson,Ray Dukes,West,2 & 1,17
+115,2001,Homestead Farms,Best Ball,1,Gary Winegar,Bill Benson,Ken Enyeart,Dan Powell,West,8 & 7,11
+116,2001,Homestead Farms,Best Ball,1,Frank Manterola,Terry Vranjes,Bert Evans,Dan Wigg,East,2 & 1,17
+117,2001,Homestead Farms,Singles,2,Norm Woods,,Dan Hoff,,East,1 up,18
+118,2001,Homestead Farms,Singles,2,Terry Dirks,,Ray Dukes,,East,4 & 2,16
+119,2001,Homestead Farms,Singles,2,Paul Chrismer,,Keith Joyal,,West,2 & 1,17
+120,2001,Homestead Farms,Singles,2,Bill Benson,,Dan Wigg,,West,3 & 2,16
+121,2001,Homestead Farms,Singles,2,David Nelson,,Marty Nehl,,East,1 up,18
+122,2001,Homestead Farms,Singles,2,Gerry Gotch,,George Fowler III,,West,3 & 2,16
+123,2001,Homestead Farms,Singles,2,Frank Manterola,,Rick Day,,West,2 & 1,17
+124,2001,Homestead Farms,Singles,2,Joe Gehlen,,Scott Wilson,,East,2 & 1,17
+125,2001,Homestead Farms,Singles,2,Terry Firman,,Mick Martinson,,West,3 & 2,16
+126,2001,Homestead Farms,Singles,2,"Ralph Smith, Jr.",,Robe Corsi,,Halved,Halved,18
+127,2001,Homestead Farms,Singles,2,Gary Winegar,,Jim Martinson,,East,3 & 2,16
+128,2001,Homestead Farms,Singles,2,Lynn Jenison,,Doug Banks,,East,5 & 4,14
+129,2001,Homestead Farms,Singles,2,Jack Leinbach,,Ken Enyeart,,West,5 & 3,15
+130,2001,Homestead Farms,Singles,2,Forrey Eastham,,Tommy Armour,,East,1 up,18
+131,2001,Homestead Farms,Singles,2,Terry Vranjes,,Jay Young,,East,1 up,18
+132,2001,Homestead Farms,Singles,2,Shawn Hedrick,,Devin Carle,,East,2 & 1,17
+133,2001,Homestead Farms,Singles,2,Doug Keith,,Bert Evans,,West,4 & 2,16
+134,2001,Homestead Farms,Singles,2,Mike Cole,,Dan Powell,,West,3 & 2,16
+135,2002,Wildhorse,Best Ball,1,Joe Gehlen,Kori Winegar,Ken Enyeart,Shayne Day,West,1 up,18
+136,2002,Wildhorse,Best Ball,1,Norm Woods,Forrey Eastham,Bert Evans,Ray Dukes,East,3 & 2,16
+137,2002,Wildhorse,Best Ball,1,Lynn Jenison,Jim Rasmussen,Mick Martinson,Keith Joyal,East,2 & 1,17
+138,2002,Wildhorse,Best Ball,1,Gary Winegar,Paul Chrismer,Jim Martinson,Dan Hoff,East,2 & 1,17
+139,2002,Wildhorse,Best Ball,1,Terry Firman,"Ralph Smith, Jr.",Doug Banks,Marty Nehl,Halved,Halved,18
+140,2002,Wildhorse,Best Ball,1,Doug Keith,David Nelson,Chris Gregor,Rick Day,West,2 & 1,17
+141,2002,Wildhorse,Best Ball,1,Mike Cole,Frank Manterola,Dan Wigg,George Fowler III,West,2 up,18
+142,2002,Wildhorse,Best Ball,1,Gerry Gotch,Terry Vranjes,Devin Carle,Robe Corsi,West,3 & 2,16
+143,2002,Wildhorse,Best Ball,1,Jack Leinbach,Jon Mengelos,Tommy Armour,Scott Wilson,West,3 & 2,16
+144,2002,Wildhorse,Singles,2,Norm Woods,,Tommy Armour,,West,1 up,18
+145,2002,Wildhorse,Singles,2,Jon Mengelos,,Bert Evans,,East,1 up,18
+146,2002,Wildhorse,Singles,2,Paul Chrismer,,Scott Wilson,,East,7 & 4,14
+147,2002,Wildhorse,Singles,2,Joe Gehlen,,Robe Corsi,,West,1 up,18
+148,2002,Wildhorse,Singles,2,Forrey Eastham,,Marty Nehl,,Halved,Halved,18
+149,2002,Wildhorse,Singles,2,Gerry Gotch,,Dan Wigg,,West,2 up,18
+150,2002,Wildhorse,Singles,2,David Nelson,,Ken Enyeart,,West,6 & 4,14
+151,2002,Wildhorse,Singles,2,Frank Manterola,,Devin Carle,,East,6 & 5,13
+152,2002,Wildhorse,Singles,2,Doug Keith,,Shayne Day,,West,7 & 6,12
+153,2002,Wildhorse,Singles,2,Terry Vranjes,,Dan Hoff,,West,6 & 5,13
+154,2002,Wildhorse,Singles,2,Kori Winegar,,George Fowler III,,West,2 up,18
+155,2002,Wildhorse,Singles,2,Jim Rasmussen,,Rick Day,,East,4 & 3,15
+156,2002,Wildhorse,Singles,2,Terry Firman,,Chris Gregor,,East,3 & 2,16
+157,2002,Wildhorse,Singles,2,Gary Winegar,,Keith Joyal,,East,2 & 1,17
+158,2002,Wildhorse,Singles,2,"Ralph Smith, Jr.",,Jim Martinson,,Halved,Halved,18
+159,2002,Wildhorse,Singles,2,Jack Leinbach,,Ray Dukes,,East,3 & 2,16
+160,2002,Wildhorse,Singles,2,Mike Cole,,Mick Martinson,,West,4 & 3,15
+161,2002,Wildhorse,Singles,2,Lynn Jenison,,Doug Banks,,West,2 & 1,17
+162,2003,Trophy Lakes,Chapman,1,Mike Cole,Norm Woods,Chris Gregor,Rick Day,West,2 & 1,17
+163,2003,Trophy Lakes,Chapman,1,Joe Gehlen,Frank Manterola,George Fowler III,Kevin Palmer,West,3 & 2,16
+164,2003,Trophy Lakes,Chapman,1,Jack Leinbach,Jon Mengelos,Keith Joyal,Scott Wilson,East,3 & 1,17
+165,2003,Trophy Lakes,Chapman,1,Jim Rasmussen,Dick Rossow,Shayne Day,Ken Enyeart,West,5 & 4,14
+166,2003,Trophy Lakes,Chapman,1,Forrey Eastham,Doug Keith,Ken Hammer,Ray Dukes,East,3 & 2,16
+167,2003,Trophy Lakes,Chapman,1,Paul Chrismer,Terry Firman,Mick Martinson,Jim Martinson,East,2 & 1,17
+168,2003,Trophy Lakes,Chapman,1,Gerry Gotch,Gary Winegar,Robe Corsi,Dan Wigg,West,5 & 4,14
+169,2003,Trophy Lakes,Chapman,1,Lynn Jenison,"Ralph Smith, Jr.",Dan Hoff,Dan Powell,West,2 & 1,17
+170,2003,Trophy Lakes,Chapman,1,David Nelson,Terry Vranjes,Bert Evans,Tommy Armour,West,5 & 4,14
+171,2003,Trophy Lakes,Best Ball,2,Gerry Gotch,Doug Keith,Dan Hoff,Kevin Palmer,East,1 up,18
+172,2003,Trophy Lakes,Best Ball,2,Paul Chrismer,Gary Winegar,Bert Evans,George Fowler III,East,1 up,18
+173,2003,Trophy Lakes,Best Ball,2,Mike Cole,Forrey Eastham,Tommy Armour,Ken Enyeart,West,7 & 6,12
+174,2003,Trophy Lakes,Best Ball,2,"Ralph Smith, Jr.",Terry Vranjes,Keith Joyal,Dan Powell,West,5 & 4,14
+175,2003,Trophy Lakes,Best Ball,2,Frank Manterola,Norm Woods,Robe Corsi,Ray Dukes,East,3 & 2,16
+176,2003,Trophy Lakes,Best Ball,2,Joe Gehlen,Jack Leinbach,Mick Martinson,Marty Nehl,West,6 & 4,14
+177,2003,Trophy Lakes,Best Ball,2,David Nelson,Dick Rossow,Rick Day,Scott Wilson,Halved,Halved,18
+178,2003,Trophy Lakes,Best Ball,2,Lynn Jenison,Jim Rasmussen,Chris Gregor,Jim Martinson,West,3 & 2,16
+179,2003,Trophy Lakes,Best Ball,2,Terry Firman,Jon Mengelos,Shayne Day,Dan Wigg,Halved,Halved,18
+180,2003,Trophy Lakes,Singles,3,"Ralph Smith, Jr.",,Keith Joyal,,East,6 & 4,14
+181,2003,Trophy Lakes,Singles,3,Gary Winegar,,Marty Nehl,,West,3 & 2,16
+182,2003,Trophy Lakes,Singles,3,Norm Woods,,Robe Corsi,,West,8 & 6,12
+183,2003,Trophy Lakes,Singles,3,Lynn Jenison,,Shayne Day,,East,1 up,18
+184,2003,Trophy Lakes,Singles,3,Frank Manterola,,Rick Day,,East,2 & 1,17
+185,2003,Trophy Lakes,Singles,3,Joe Gehlen,,Chris Gregor,,Halved,Halved,18
+186,2003,Trophy Lakes,Singles,3,Gerry Gotch,,Kevin Palmer,,East,5 & 4,14
+187,2003,Trophy Lakes,Singles,3,Jim Rasmussen,,Scott Wilson,,West,6 & 5,13
+188,2003,Trophy Lakes,Singles,3,Doug Keith,,Dan Wigg,,West,6 & 5,13
+189,2003,Trophy Lakes,Singles,3,David Nelson,,Ray Dukes,,West,3 & 2,16
+190,2003,Trophy Lakes,Singles,3,Dick Rossow,,Jim Martinson,,West,2 & 1,17
+191,2003,Trophy Lakes,Singles,3,Kori Winegar,,Ken Enyeart,,East,1 up,18
+192,2003,Trophy Lakes,Singles,3,Terry Firman,,Dan Hoff,,West,6 & 5,13
+193,2003,Trophy Lakes,Singles,3,Jack Leinbach,,Tommy Armour,,West,1 up,18
+194,2003,Trophy Lakes,Singles,3,Paul Chrismer,,George Fowler III,,East,7 & 6,12
+195,2003,Trophy Lakes,Singles,3,Terry Vranjes,,Dan Powell,,Halved,Halved,18
+196,2003,Trophy Lakes,Singles,3,Mike Cole,,Bert Evans,,West,1 up,18
+197,2003,Trophy Lakes,Singles,3,Jon Mengelos,,Mick Martinson,,East,2 & 1,17
+198,2004,Wildhorse,Chapman,1,Paul Chrismer,Kori Winegar,Rick Day,Dan Powell,East,7 & 6,12
+199,2004,Wildhorse,Chapman,1,Jim Rasmussen,Terry Vranjes,Mick Martinson,Marty Nehl,East,2 up,18
+200,2004,Wildhorse,Chapman,1,Lynn Jenison,Frank Manterola,Ray Dukes,Dan Hoff,East,2 & 1,17
+201,2004,Wildhorse,Chapman,1,Terry Dirks,Norm Woods,Devin Carle,Scott Wilson,West,4 & 3,15
+202,2004,Wildhorse,Chapman,1,Forrey Eastham,Jon Mengelos,Shayne Day,Kevin Palmer,East,3 & 2,16
+203,2004,Wildhorse,Chapman,1,Mike Cole,Gary Winegar,Ken Enyeart,Chris Gregor,East,4 & 2,16
+204,2004,Wildhorse,Chapman,1,Joe Gehlen,David Nelson,Robe Corsi,Keith Joyal,East,1 up,18
+205,2004,Wildhorse,Chapman,1,Doug Keith,"Ralph Smith, Jr.",Jim Martinson,Dan Wigg,East,2 up,18
+206,2004,Wildhorse,Chapman,1,Terry Firman,Gerry Gotch,Bert Evans,Matt Evans,West,2 & 1,17
+207,2004,Wildhorse,Best Ball,2,Forrey Eastham,Joe Gehlen,Dan Hoff,Keith Joyal,West,5 & 3,15
+208,2004,Wildhorse,Best Ball,2,Gerry Gotch,Jon Mengelos,Rick Day,Bert Evans,West,3 & 2,16
+209,2004,Wildhorse,Best Ball,2,Paul Chrismer,Gary Winegar,Mick Martinson,Kevin Palmer,East,2 up,18
+210,2004,Wildhorse,Best Ball,2,Doug Keith,Jim Rasmussen,Marty Nehl,Dan Wigg,West,6 & 4,14
+211,2004,Wildhorse,Best Ball,2,Terry Firman,Lynn Jenison,Chris Gregor,Jim Martinson,East,3 & 2,16
+212,2004,Wildhorse,Best Ball,2,"Ralph Smith, Jr.",Norm Woods,Devin Carle,Ken Enyeart,West,6 & 5,13
+213,2004,Wildhorse,Best Ball,2,Mike Cole,Kori Winegar,Robe Corsi,Scott Wilson,West,6 & 5,13
+214,2004,Wildhorse,Best Ball,2,Frank Manterola,Terry Vranjes,Shayne Day,Matt Evans,Halved,Halved,18
+215,2004,Wildhorse,Best Ball,2,Terry Dirks,David Nelson,Ray Dukes,Dan Powell,West,4 & 2,16
+216,2004,Wildhorse,Singles,3,Jon Mengelos,,Mick Martinson,,East,2 & 1,17
+217,2004,Wildhorse,Singles,3,David Nelson,,Matt Evans,,West,3 & 2,16
+218,2004,Wildhorse,Singles,3,Forrey Eastham,,Kevin Palmer,,East,3 & 2,16
+219,2004,Wildhorse,Singles,3,Paul Chrismer,,Marty Nehl,,East,3 & 1,17
+220,2004,Wildhorse,Singles,3,Gerry Gotch,,Shayne Day,,East,1 up,18
+221,2004,Wildhorse,Singles,3,Doug Keith,,Robe Corsi,,East,2 & 1,17
+222,2004,Wildhorse,Singles,3,Terry Vranjes,,Dan Powell,,West,4 up,18
+223,2004,Wildhorse,Singles,3,Jim Rasmussen,,Jim Martinson,,East,4 & 2,16
+224,2004,Wildhorse,Singles,3,Terry Firman,,Chris Gregor,,West,1 up,18
+225,2004,Wildhorse,Singles,3,Frank Manterola,,Devin Carle,,Halved,Halved,18
+226,2004,Wildhorse,Singles,3,Joe Gehlen,,Rick Day,,East,2 up,18
+227,2004,Wildhorse,Singles,3,Terry Dirks,,Ray Dukes,,East,4 & 3,15
+228,2004,Wildhorse,Singles,3,Norm Woods,,Keith Joyal,,West,2 up,18
+229,2004,Wildhorse,Singles,3,Kori Winegar,,Dan Wigg,,East,5 & 3,15
+230,2004,Wildhorse,Singles,3,Mike Cole,,Bert Evans,,East,4 & 2,16
+231,2004,Wildhorse,Singles,3,"Ralph Smith, Jr.",,Ken Enyeart,,East,2 up,18
+232,2004,Wildhorse,Singles,3,Gary Winegar,,Scott Wilson,,West,1 up,18
+233,2004,Wildhorse,Singles,3,Lynn Jenison,,Dan Hoff,,East,3 & 1,17
+234,2005,Moses Pointe,Chapman,1,Mike Cole,Gerry Gotch,Dan Hoff,Tommy Armour,East,2 & 1,17
+235,2005,Moses Pointe,Chapman,1,Doug Keith,Frank Manterola,Bob Wilson,Dave Rosenberg,West,3 & 2,16
+236,2005,Moses Pointe,Chapman,1,Norm Woods,Lynn Jenison,Dan Powell,Scott Wilson,West,3 & 2,16
+237,2005,Moses Pointe,Chapman,1,Paul Chrismer,Kori Winegar,Bob Carnevale,Dan Wigg,East,4 & 3,15
+238,2005,Moses Pointe,Chapman,1,David Nelson,Terry Rossow,Ken Enyeart,Robe Corsi,West,6 & 5,13
+239,2005,Moses Pointe,Chapman,1,Jack Leinbach,Terry Vranjes,Devin Carle,Marty Nehl,West,9 & 7,11
+240,2005,Moses Pointe,Chapman,1,Gary Winegar,Richard Hawk,Mick Martinson,Keith Joyal,East,2 & 1,17
+241,2005,Moses Pointe,Chapman,1,Terry Firman,Dick Rossow,Shayne Day,Ray Dukes,West,3 & 2,16
+242,2005,Moses Pointe,Chapman,1,Forrey Eastham,Jon Mengelos,Jim Martinson,Rick Day,West,3 & 2,16
+243,2005,Moses Pointe,Chapman,1,"Ralph Smith, Jr.",Jim Rasmussen,Matt Evans,Bert Evans,Halved,Halved,18
+244,2005,Moses Pointe,Best Ball,2,Paul Chrismer,Gary Winegar,Ray Dukes,Ken Enyeart,West,1 up,18
+245,2005,Moses Pointe,Best Ball,2,Doug Keith,Gerry Gotch,Mick Martinson,Dan Wigg,East,2 up,18
+246,2005,Moses Pointe,Best Ball,2,Norm Woods,Forrey Eastham,Bert Evans,Marty Nehl,West,5 & 4,14
+247,2005,Moses Pointe,Best Ball,2,Terry Firman,Jim Rasmussen,Dan Powell,Matt Evans,East,1 up,18
+248,2005,Moses Pointe,Best Ball,2,Jack Leinbach,David Nelson,Bob Wilson,Scott Wilson,West,2 & 1,17
+249,2005,Moses Pointe,Best Ball,2,Mike Cole,"Ralph Smith, Jr.",Keith Joyal,Tommy Armour,East,4 & 3,15
+250,2005,Moses Pointe,Best Ball,2,Terry Rossow,Dick Rossow,Shayne Day,Rick Day,West,1 up,18
+251,2005,Moses Pointe,Best Ball,2,Lynn Jenison,Kori Winegar,Bob Carnevale,Dave Rosenberg,East,2 & 1,17
+252,2005,Moses Pointe,Best Ball,2,Terry Vranjes,Frank Manterola,Devin Carle,Jim Martinson,Halved,Halved,18
+253,2005,Moses Pointe,Best Ball,2,Richard Hawk,Jon Mengelos,Dan Hoff,Robe Corsi,Halved,Halved,18
+254,2005,Moses Pointe,Singles,3,Paul Chrismer,,Scott Wilson,,East,7 & 5,13
+255,2005,Moses Pointe,Singles,3,Jon Mengelos,,Jim Martinson,,East,2 & 1,17
+256,2005,Moses Pointe,Singles,3,Shawn Hedrick,,Bob Wilson,,Halved,Halved,18
+257,2005,Moses Pointe,Singles,3,David Nelson,,Ken Enyeart,,East,1 up,18
+258,2005,Moses Pointe,Singles,3,Doug Keith,,Keith Joyal,,East,7 & 5,13
+259,2005,Moses Pointe,Singles,3,Jack Leinbach,,Devin Carle,,East,1 up,18
+260,2005,Moses Pointe,Singles,3,Norm Woods,,Rick Day,,West,4 & 2,16
+261,2005,Moses Pointe,Singles,3,Jim Rasmussen,,Ray Dukes,,West,7 & 6,12
+262,2005,Moses Pointe,Singles,3,Kori Winegar,,Bert Evans,,East,1 up,18
+263,2005,Moses Pointe,Singles,3,Mike Cole,,Dan Hoff,,East,4 & 3,15
+264,2005,Moses Pointe,Singles,3,Dick Rossow,,Marty Nehl,,West,7 & 5,13
+265,2005,Moses Pointe,Singles,3,Forrey Eastham,,Matt Evans,,West,2 & 1,17
+266,2005,Moses Pointe,Singles,3,Terry Rossow,,Mick Martinson,,East,3 & 2,16
+267,2005,Moses Pointe,Singles,3,Gerry Gotch,,Dave Rosenberg,,West,2 up,18
+268,2005,Moses Pointe,Singles,3,Terry Firman,,Bob Carnevale,,West,2 & 1,17
+269,2005,Moses Pointe,Singles,3,Bob Richey,,Tommy Armour,,East,6 & 4,14
+270,2005,Moses Pointe,Singles,3,Richard Hawk,,Shayne Day,,West,1 up,18
+271,2005,Moses Pointe,Singles,3,Lynn Jenison,,Dan Powell,,Halved,Halved,18
+272,2005,Moses Pointe,Singles,3,Joe Gehlen,,Robe Corsi,,West,8 & 6,12
+273,2005,Moses Pointe,Singles,3,"Ralph Smith, Jr.",,Dan Wigg,,East,3 & 2,16
+274,2006,Heron Lakes,Chapman,1,Norm Woods,Jon Mengelos,Dan Hoff,Matt Evans,Halved,Halved,18
+275,2006,Heron Lakes,Chapman,1,Jim Rasmussen,Lynn Jenison,Shayne Day,Rick Day,East,1 up,18
+276,2006,Heron Lakes,Chapman,1,Gary Winegar,Richard Hawk,Dan Powell,Ray Dukes,East,2 up,18
+277,2006,Heron Lakes,Chapman,1,Gerry Gotch,Kori Winegar,Jim Martinson,Marty Nehl,East,3 & 1,17
+278,2006,Heron Lakes,Chapman,1,Frank Manterola,Terry Rossow,Devin Carle,Scott Wilson,West,7 & 6,12
+279,2006,Heron Lakes,Chapman,1,Forrey Eastham,Terry Firman,Dan Wigg,Keith Joyal,East,2 & 1,17
+280,2006,Heron Lakes,Chapman,1,Dick Rossow,Mike Cole,Mick Martinson,Ken Enyeart,East,4 & 2,16
+281,2006,Heron Lakes,Chapman,1,"Ralph Smith, Jr.",Doug Keith,Bert Evans,Bob Wilson,Halved,Halved,18
+282,2006,Heron Lakes,Best Ball,2,Terry Rossow,Kori Winegar,Bert Evans,Dan Hoff,Halved,Halved,18
+283,2006,Heron Lakes,Best Ball,2,Dick Rossow,Richard Hawk,Marty Nehl,Matt Evans,East,3 up,18
+284,2006,Heron Lakes,Best Ball,2,Norm Woods,Gary Winegar,Dan Powell,Scott Wilson,West,1 up,18
+285,2006,Heron Lakes,Best Ball,2,Gerry Gotch,Doug Keith,Ken Enyeart,Bob Wilson,East,1 up,18
+286,2006,Heron Lakes,Best Ball,2,"Ralph Smith, Jr.",Jon Mengelos,Jim Martinson,Keith Joyal,East,2 up,18
+287,2006,Heron Lakes,Best Ball,2,Forrey Eastham,Lynn Jenison,Mick Martinson,Dan Wigg,West,4 up,18
+288,2006,Heron Lakes,Best Ball,2,Frank Manterola,Jim Rasmussen,Rick Day,Ray Dukes,East,2 up,18
+289,2006,Heron Lakes,Best Ball,2,Mike Cole,Terry Firman,Devin Carle,Shayne Day,East,1 up,18
+290,2006,Heron Lakes,Singles,3,"Ralph Smith, Jr.",,Marty Nehl,,East,2 up,18
+291,2006,Heron Lakes,Singles,3,Dick Rossow,,Ray Dukes,,East,4 & 3,15
+292,2006,Heron Lakes,Singles,3,Forrey Eastham,,Rick Day,,West,6 & 5,13
+293,2006,Heron Lakes,Singles,3,Frank Manterola,,Bob Wilson,,West,3 & 2,16
+294,2006,Heron Lakes,Singles,3,Mike Cole,,Dan Wigg,,West,7 & 5,13
+295,2006,Heron Lakes,Singles,3,Gary Winegar,,Jim Martinson,,Halved,Halved,18
+296,2006,Heron Lakes,Singles,3,Lynn Jenison,,Matt Evans,,West,2 up,18
+297,2006,Heron Lakes,Singles,3,Doug Keith,,Ken Enyeart,,East,4 & 2,16
+298,2006,Heron Lakes,Singles,3,Gerry Gotch,,Devin Carle,,East,6 & 5,13
+299,2006,Heron Lakes,Singles,3,Norm Woods,,Keith Joyal,,West,5 & 3,15
+300,2006,Heron Lakes,Singles,3,Richard Hawk,,Scott Wilson,,East,5 & 3,15
+301,2006,Heron Lakes,Singles,3,Terry Rossow,,Dan Hoff,,West,7 & 6,12
+302,2006,Heron Lakes,Singles,3,Jim Rasmussen,,Shayne Day,,West,1 up,18
+303,2006,Heron Lakes,Singles,3,Terry Firman,,Mick Martinson,,West,2 & 1,17
+304,2006,Heron Lakes,Singles,3,Jon Mengelos,,Dan Powell,,West,3 & 1,17
+305,2006,Heron Lakes,Singles,3,Kori Winegar,,Bert Evans,,East,2 up,18
+306,2007,Circling Raven,Chapman,1,Doug Keith,Gerry Gotch,Jim Martinson,Tommy Armour,East,1 up,18
+307,2007,Circling Raven,Chapman,1,Gary Winegar,Richard Hawk,Devin Carle,Robe Corsi,Halved,Halved,18
+308,2007,Circling Raven,Chapman,1,Lynn Jenison,Jim Rasmussen,Ken Hammer,Ken Enyeart,East,1 up,18
+309,2007,Circling Raven,Chapman,1,Frank Manterola,Dan Powell,Dan Wigg,Rick Day,Halved,Halved,18
+310,2007,Circling Raven,Chapman,1,Troy McNeight,Paul Chrismer,Shayne Day,Keith Joyal,West,3 & 2,16
+311,2007,Circling Raven,Chapman,1,Terry Rossow,Rick Catlin,Bradey Day,Mick Martinson,West,3 & 1,17
+312,2007,Circling Raven,Chapman,1,Dick Rossow,Jon Mengelos,Matt Evans,Bob Carnevale,West,3 & 2,16
+313,2007,Circling Raven,Chapman,1,"Ralph Smith, Jr.",Mike Cole,Bert Evans,Ray Dukes,East,6 & 4,14
+314,2007,Circling Raven,Chapman,1,Terry Firman,Forrey Eastham,Dan Hoff,Marty Nehl,East,1 up,18
+315,2007,Circling Raven,Chapman,1,Norm Woods,Jack Leinbach,Scott Wilson,Bob Goodman,West,7 & 5,13
+316,2007,Circling Raven,Best Ball,2,Terry Rossow,Troy McNeight,Matt Evans,Devin Carle,West,3 & 2,16
+317,2007,Circling Raven,Best Ball,2,Lynn Jenison,Mike Cole,Jim Martinson,Shayne Day,Halved,Halved,18
+318,2007,Circling Raven,Best Ball,2,Richard Hawk,Jack Leinbach,Mick Martinson,Ken Hammer,East,3 & 2,16
+319,2007,Circling Raven,Best Ball,2,Jim Rasmussen,Norm Woods,Marty Nehl,Tommy Armour,East,1 up,18
+320,2007,Circling Raven,Best Ball,2,Terry Firman,Rick Catlin,Ray Dukes,Scott Wilson,West,1 up,18
+321,2007,Circling Raven,Best Ball,2,Jon Mengelos,"Ralph Smith, Jr.",Rick Day,Dan Hoff,East,2 up,18
+322,2007,Circling Raven,Best Ball,2,Doug Keith,Frank Manterola,Bert Evans,Robe Corsi,East,3 & 2,16
+323,2007,Circling Raven,Best Ball,2,Dan Powell,Forrey Eastham,Keith Joyal,Bob Carnevale,East,1 up,18
+324,2007,Circling Raven,Best Ball,2,Gary Winegar,Paul Chrismer,Dan Wigg,Bob Goodman,Halved,Halved,18
+325,2007,Circling Raven,Best Ball,2,Dick Rossow,Gerry Gotch,Bradey Day,Ken Enyeart,East,2 & 1,17
+326,2007,Circling Raven,Singles,3,Mike Cole,,Jim Martinson,,West,5 & 4,14
+327,2007,Circling Raven,Singles,3,Jim Rasmussen,,Matt Evans,,East,3 & 2,16
+328,2007,Circling Raven,Singles,3,Doug Keith,,Mick Martinson,,East,1 up,18
+329,2007,Circling Raven,Singles,3,Gary Winegar,,Robe Corsi,,West,5 & 4,14
+330,2007,Circling Raven,Singles,3,Lynn Jenison,,Ken Hammer,,East,4 & 3,15
+331,2007,Circling Raven,Singles,3,Dan Powell,,Bert Evans,,East,1 up,18
+332,2007,Circling Raven,Singles,3,Troy McNeight,,Devin Carle,,West,4 & 3,15
+333,2007,Circling Raven,Singles,3,Dick Rossow,,Ray Dukes,,East,2 & 1,17
+334,2007,Circling Raven,Singles,3,Rick Catlin,,Marty Nehl,,East,4 & 3,15
+335,2007,Circling Raven,Singles,3,Richard Hawk,,Rick Day,,East,6 & 5,13
+336,2007,Circling Raven,Singles,3,"Ralph Smith, Jr.",,Bradey Day,,East,4 & 3,15
+337,2007,Circling Raven,Singles,3,Gerry Gotch,,Tommy Armour,,West,5 & 4,14
+338,2007,Circling Raven,Singles,3,Frank Manterola,,Scott Wilson,,East,3 & 2,16
+339,2007,Circling Raven,Singles,3,Terry Firman,,Bob Carnevale,,East,3 & 2,16
+340,2007,Circling Raven,Singles,3,Forrey Eastham,,Keith Joyal,,West,4 & 3,15
+341,2007,Circling Raven,Singles,3,Paul Chrismer,,Ken Enyeart,,East,1 up,18
+342,2007,Circling Raven,Singles,3,Jon Mengelos,,Dan Hoff,,East,3 & 2,16
+343,2007,Circling Raven,Singles,3,Terry Rossow,,Dan Wigg,,West,7 & 6,12
+344,2007,Circling Raven,Singles,3,Norm Woods,,Shayne Day,,West,4 & 2,16
+345,2007,Circling Raven,Singles,3,Jack Leinbach,,Bob Goodman,,West,2 & 1,17
+346,2008,Kah-Nee-Ta,Chapman,1,Troy McNeight,Gerry Gotch,Robe Corsi,Bob Goodman,West,5 & 3,15
+347,2008,Kah-Nee-Ta,Chapman,1,Kori Winegar,Larry Sadler,Shayne Day,Scott Wilson,West,5 & 4,14
+348,2008,Kah-Nee-Ta,Chapman,1,Gary Winegar,Richard Hawk,Dan Wigg,Rick Day,West,4 & 3,15
+349,2008,Kah-Nee-Ta,Chapman,1,Norm Woods,"Ralph Smith, Jr.",Jim Martinson,Bradey Day,West,7 & 6,12
+350,2008,Kah-Nee-Ta,Chapman,1,Forrey Eastham,Terry Firman,Ken Hammer,Keith Joyal,West,1 up,18
+351,2008,Kah-Nee-Ta,Chapman,1,Frank Manterola,Jack Leinbach,Ken Enyeart,Matt Evans,East,4 & 3,15
+352,2008,Kah-Nee-Ta,Chapman,1,Dan Powell,Rick Catlin,Mick Martinson,Devin Carle,East,5 & 4,14
+353,2008,Kah-Nee-Ta,Chapman,1,Kelly DeShaw,Ben Firman,Bert Evans,Marty Nehl,East,1 up,18
+354,2008,Kah-Nee-Ta,Chapman,1,Eric Jensvold,Jon Mengelos,Dan Hoff,Ray Dukes,East,5 & 4,14
+355,2008,Kah-Nee-Ta,Best Ball,2,Rick Catlin,Gerry Gotch,Bob Goodman,Keith Joyal,East,6 & 4,14
+356,2008,Kah-Nee-Ta,Best Ball,2,Ben Firman,Eric Jensvold,Bert Evans,Ray Dukes,East,5 & 4,14
+357,2008,Kah-Nee-Ta,Best Ball,2,Terry Firman,Kelly DeShaw,Mick Martinson,Shayne Day,West,3 & 1,17
+358,2008,Kah-Nee-Ta,Best Ball,2,Dan Powell,Forrey Eastham,Jim Martinson,Robe Corsi,East,4 & 3,15
+359,2008,Kah-Nee-Ta,Best Ball,2,Jon Mengelos,Frank Manterola,Devin Carle,Dan Wigg,East,3 & 1,17
+360,2008,Kah-Nee-Ta,Best Ball,2,Jack Leinbach,Richard Hawk,Ken Enyeart,Dan Hoff,West,3 & 2,16
+361,2008,Kah-Nee-Ta,Best Ball,2,Troy McNeight,Larry Sadler,Rick Day,Bradey Day,West,4 & 3,15
+362,2008,Kah-Nee-Ta,Best Ball,2,"Ralph Smith, Jr.",Kori Winegar,Marty Nehl,Scott Wilson,West,6 & 4,14
+363,2008,Kah-Nee-Ta,Best Ball,2,Norm Woods,Gary Winegar,Ken Hammer,Matt Evans,East,1 up,18
+364,2008,Kah-Nee-Ta,Singles,3,Eric Jensvold,,Ken Enyeart,,East,2 up,18
+365,2008,Kah-Nee-Ta,Singles,3,Jon Mengelos,,Ken Hammer,,East,1 up,18
+366,2008,Kah-Nee-Ta,Singles,3,Rick Catlin,,Bob Goodman,,West,1 up,18
+367,2008,Kah-Nee-Ta,Singles,3,Troy McNeight,,Jim Martinson,,West,1 up,18
+368,2008,Kah-Nee-Ta,Singles,3,Terry Firman,,Dan Hoff,,West,2 up,18
+369,2008,Kah-Nee-Ta,Singles,3,Gerry Gotch,,Rick Day,,West,2 up,18
+370,2008,Kah-Nee-Ta,Singles,3,Kelly DeShaw,,Mick Martinson,,East,3 & 2,16
+371,2008,Kah-Nee-Ta,Singles,3,Dan Powell,,Dan Wigg,,West,1 up,18
+372,2008,Kah-Nee-Ta,Singles,3,Larry Sadler,,Keith Joyal,,East,2 up,18
+373,2008,Kah-Nee-Ta,Singles,3,Norm Woods,,Marty Nehl,,East,6 & 4,14
+374,2008,Kah-Nee-Ta,Singles,3,Forrey Eastham,,Scott Wilson,,West,4 & 3,15
+375,2008,Kah-Nee-Ta,Singles,3,Ben Firman,,Devin Carle,,West,3 & 2,16
+376,2008,Kah-Nee-Ta,Singles,3,Frank Manterola,,Bradey Day,,West,2 & 1,17
+377,2008,Kah-Nee-Ta,Singles,3,Richard Hawk,,Bert Evans,,East,4 & 3,15
+378,2008,Kah-Nee-Ta,Singles,3,Jack Leinbach,,Ray Dukes,,West,2 & 1,17
+379,2008,Kah-Nee-Ta,Singles,3,"Ralph Smith, Jr.",,Robe Corsi,,West,3 & 2,16
+380,2008,Kah-Nee-Ta,Singles,3,Gary Winegar,,Matt Evans,,West,4 & 3,15
+381,2008,Kah-Nee-Ta,Singles,3,Kori Winegar,,Shayne Day,,East,2 & 1,17
+382,2009,Wildhorse,Chapman,1,Frank Manterola,Norm Woods,Bob Carnevale,Matt Evans,West,2 & 1,17
+383,2009,Wildhorse,Chapman,1,Gary Winegar,Kori Winegar,Bert Evans,Dan Wigg,Halved,Halved,18
+384,2009,Wildhorse,Chapman,1,Rick Catlin,"Ralph Smith, Jr.",Dan Hoff,Ray Dukes,West,1 up,18
+385,2009,Wildhorse,Chapman,1,Forrey Eastham,Terry Firman,Scott Wilson,Keith Joyal,West,8 & 7,11
+386,2009,Wildhorse,Chapman,1,Jon Mengelos,Jim Rasmussen,Jim Martinson,Bradey Day,Halved,Halved,18
+387,2009,Wildhorse,Chapman,1,Troy McNeight,Jack Leinbach,Ken Hammer,Tommy Armour,Halved,Halved,18
+388,2009,Wildhorse,Chapman,1,Dick Rossow,Terry Rossow,Mick Martinson,Rick Day,West,4 & 3,15
+389,2009,Wildhorse,Chapman,1,Dan Powell,Gerry Gotch,Shayne Day,Robe Corsi,East,2 up,18
+390,2009,Wildhorse,Chapman,1,Doug Keith,Steve Yocom,Scott Evans,Devin Carle,East,3 & 2,16
+391,2009,Wildhorse,Chapman,1,Eric Jensvold,Larry Sadler,Bob Goodman,Ken Enyeart,Halved,Halved,18
+392,2009,Wildhorse,Best Ball,2,Doug Keith,Jack Leinbach,Dan Hoff,Scott Evans,West,3 & 2,16
+393,2009,Wildhorse,Best Ball,2,Terry Firman,Dick Rossow,Bert Evans,Bradey Day,West,1 up,18
+394,2009,Wildhorse,Best Ball,2,Norm Woods,Gary Winegar,Jim Martinson,Scott Wilson,Halved,Halved,18
+395,2009,Wildhorse,Best Ball,2,Dan Powell,Forrey Eastham,Mick Martinson,Shayne Day,Halved,Halved,18
+396,2009,Wildhorse,Best Ball,2,Kori Winegar,Frank Manterola,Devin Carle,Ken Enyeart,East,1 up,18
+397,2009,Wildhorse,Best Ball,2,Gerry Gotch,Jon Mengelos,Robe Corsi,Dan Wigg,East,2 & 1,17
+398,2009,Wildhorse,Best Ball,2,Troy McNeight,Rick Catlin,Rick Day,Ken Hammer,East,3 & 2,16
+399,2009,Wildhorse,Best Ball,2,Terry Rossow,Jim Rasmussen,Bob Carnevale,Keith Joyal,East,4 & 3,15
+400,2009,Wildhorse,Best Ball,2,"Ralph Smith, Jr.",Eric Jensvold,Tommy Armour,Ray Dukes,East,2 & 1,17
+401,2009,Wildhorse,Best Ball,2,Larry Sadler,Steve Yocom,Bob Goodman,Matt Evans,West,5 & 4,14
+402,2009,Wildhorse,Singles,3,Frank Manterola,,Robe Corsi,,East,4 & 3,15
+403,2009,Wildhorse,Singles,3,Larry Sadler,,Devin Carle,,East,1 up,18
+404,2009,Wildhorse,Singles,3,Kori Winegar,,Ken Hammer,,East,6 & 5,13
+405,2009,Wildhorse,Singles,3,Dick Rossow,,Ray Dukes,,West,3 & 2,16
+406,2009,Wildhorse,Singles,3,Forrey Eastham,,Matt Evans,,East,2 & 1,17
+407,2009,Wildhorse,Singles,3,Terry Rossow,,Keith Joyal,,Halved,Halved,18
+408,2009,Wildhorse,Singles,3,Terry Firman,,Scott Wilson,,West,1 up,18
+409,2009,Wildhorse,Singles,3,Norm Woods,,Bradey Day,,East,4 & 3,15
+410,2009,Wildhorse,Singles,3,Troy McNeight,,Jim Martinson,,East,2 up,18
+411,2009,Wildhorse,Singles,3,Gary Winegar,,Mick Martinson,,Halved,Halved,18
+412,2009,Wildhorse,Singles,3,Eric Jensvold,,Dan Hoff,,East,1 up,18
+413,2009,Wildhorse,Singles,3,Jon Mengelos,,Shayne Day,,West,1 up,18
+414,2009,Wildhorse,Singles,3,Rick Catlin,,Bob Goodman,,West,7 & 6,12
+415,2009,Wildhorse,Singles,3,Dan Powell,,Bob Carnevale,,East,3 & 2,16
+416,2009,Wildhorse,Singles,3,Jack Leinbach,,Ken Enyeart,,West,5 & 3,15
+417,2009,Wildhorse,Singles,3,Jim Rasmussen,,Tommy Armour,,West,4 & 2,16
+418,2009,Wildhorse,Singles,3,Steve Yocom,,Scott Evans,,Halved,Halved,18
+419,2009,Wildhorse,Singles,3,"Ralph Smith, Jr.",,Dan Wigg,,East,1 up,18
+420,2009,Wildhorse,Singles,3,Gerry Gotch,,Bert Evans,,East,5 & 4,14
+421,2009,Wildhorse,Singles,3,Doug Keith,,Rick Day,,West,5 & 4,14
+422,2010,North Bellingham,Chapman,1,Troy McNeight,Gerry Gotch,Bert Evans,Matt Evans,West,5 & 4,14
+423,2010,North Bellingham,Chapman,1,Richard Hawk,Rick Williams,Ken Enyeart,Devin Carle,West,1 up,18
+424,2010,North Bellingham,Chapman,1,Dan Powell,Forrey Eastham,Shayne Day,Dan Wigg,East,1 up,18
+425,2010,North Bellingham,Chapman,1,Jon Mengelos,Steve Yocom,Jim Martinson,Bradey Day,Halved,Halved,18
+426,2010,North Bellingham,Chapman,1,Ben Firman,Jim Rasmussen,Mick Martinson Jr.,Rick Day,West,2 & 1,17
+427,2010,North Bellingham,Chapman,1,Norm Woods,Doug Keith,Mick Martinson,Dan Hoff,West,4 & 3,15
+428,2010,North Bellingham,Chapman,1,Terry Firman,Terry Rossow,Bob Goodman,Scott Wilson,East,3 & 2,16
+429,2010,North Bellingham,Chapman,1,"Ralph Smith, Jr.",Dick Rossow,Robe Corsi,Keith Joyal,West,5 & 4,14
+430,2010,North Bellingham,Chapman,1,Rick Catlin,Larry Sadler,Scott Evans,Ray Dukes,East,7 & 6,12
+431,2010,North Bellingham,Chapman,1,Eric Jensvold,Frank Manterola,Bob Carnevale,Tommy Armour,West,5 & 4,14
+432,2010,North Bellingham,Best Ball,2,Rick Williams,Jim Rasmussen,Devin Carle,Matt Evans,Halved,Halved,18
+433,2010,North Bellingham,Best Ball,2,Ben Firman,Eric Jensvold,Dan Hoff,Scott Wilson,West,4 & 3,15
+434,2010,North Bellingham,Best Ball,2,Forrey Eastham,Frank Manterola,Bert Evans,Keith Joyal,East,5 & 3,15
+435,2010,North Bellingham,Best Ball,2,Dick Rossow,Gerry Gotch,Jim Martinson,Ken Enyeart,West,5 & 3,15
+436,2010,North Bellingham,Best Ball,2,Norm Woods,Troy McNeight,Bradey Day,Robe Corsi,West,4 & 2,16
+437,2010,North Bellingham,Best Ball,2,Steve Yocom,Larry Sadler,Mick Martinson Jr.,Bob Goodman,West,1 up,18
+438,2010,North Bellingham,Best Ball,2,Dan Powell,Terry Firman,Mick Martinson,Shayne Day,West,1 up,18
+439,2010,North Bellingham,Best Ball,2,Terry Rossow,Doug Keith,Tommy Armour,Dan Wigg,West,2 & 1,17
+440,2010,North Bellingham,Best Ball,2,Rick Catlin,Richard Hawk,Rick Day,Ray Dukes,West,1 up,18
+441,2010,North Bellingham,Best Ball,2,"Ralph Smith, Jr.",Jon Mengelos,Scott Evans,Bob Carnevale,West,3 & 2,16
+442,2010,North Bellingham,Singles,3,Steve Yocom,,Robe Corsi,,East,6 & 4,14
+443,2010,North Bellingham,Singles,3,Larry Sadler,,Keith Joyal,,East,4 & 2,16
+444,2010,North Bellingham,Singles,3,Forrey Eastham,,Ray Dukes,,West,4 & 3,15
+445,2010,North Bellingham,Singles,3,Gerry Gotch,,Bradey Day,,West,3 & 2,16
+446,2010,North Bellingham,Singles,3,Rick Catlin,,Dan Hoff,,East,2 & 1,17
+447,2010,North Bellingham,Singles,3,Jim Rasmussen,,Bert Evans,,East,3 & 2,16
+448,2010,North Bellingham,Singles,3,Troy McNeight,,Mick Martinson,,West,3 & 2,16
+449,2010,North Bellingham,Singles,3,Jon Mengelos,,Bob Carnevale,,East,1 up,18
+450,2010,North Bellingham,Singles,3,Frank Manterola,,Scott Wilson,,West,3 & 2,16
+451,2010,North Bellingham,Singles,3,Ben Firman,,Mick Martinson Jr.,,West,3 & 1,17
+452,2010,North Bellingham,Singles,3,Terry Rossow,,Jim Martinson,,West,6 & 4,14
+453,2010,North Bellingham,Singles,3,Terry Firman,,Shayne Day,,East,5 & 4,14
+454,2010,North Bellingham,Singles,3,Dick Rossow,,Ken Enyeart,,West,6 & 4,14
+455,2010,North Bellingham,Singles,3,Richard Hawk,,Bob Goodman,,East,4 & 3,15
+456,2010,North Bellingham,Singles,3,Rick Williams,,Dan Wigg,,West,5 & 4,14
+457,2010,North Bellingham,Singles,3,"Ralph Smith, Jr.",,Devin Carle,,West,5 & 4,14
+458,2010,North Bellingham,Singles,3,Eric Jensvold,,Matt Evans,,East,4 & 2,16
+459,2010,North Bellingham,Singles,3,Doug Keith,,Rick Day,,West,3 & 2,16
+460,2010,North Bellingham,Singles,3,Dan Powell,,Tommy Armour,,East,2 & 1,17
+461,2010,North Bellingham,Singles,3,Norm Woods,,Scott Evans,,West,1 up,18
+462,2011,Circling Raven,Chapman,1,Eric Jensvold,Larry Sadler,Scott Wilson,Marty Nehl,Halved,Halved,18
+463,2011,Circling Raven,Chapman,1,Norm Woods,Steve Yocom,Ken Enyeart,Dan Hoff,East,4 & 3,15
+464,2011,Circling Raven,Chapman,1,Rick Catlin,Terry Firman,Tommy Armour,Shayne Day,East,4 & 3,15
+465,2011,Circling Raven,Chapman,1,Daniel Williams,Gerry Gotch,Dan Wigg,Scott Evans,West,1 up,18
+466,2011,Circling Raven,Chapman,1,Brian Vosburgh,Troy McNeight,Kris Martinson,Mick Martinson Jr.,West,4 & 2,16
+467,2011,Circling Raven,Chapman,1,Ron Potter,Ben Firman,Bert Evans,Pat Enloe,East,5 & 4,14
+468,2011,Circling Raven,Chapman,1,Greg Mooney,Frank Manterola,Mick Martinson,Robe Corsi,West,1 up,18
+469,2011,Circling Raven,Chapman,1,Jim Rasmussen,Rick Williams,Rick Day,Keith Joyal,West,5 & 4,14
+470,2011,Circling Raven,Chapman,1,Bill Bender,Buck Berndt,Jim Martinson,Bradey Day,West,4 & 3,15
+471,2011,Circling Raven,Chapman,1,"Ralph Smith, Jr.",Terry Rossow,Matt Evans,Bob Goodman,East,3 & 2,16
+472,2011,Circling Raven,Best Ball,2,Bill Bender,Norm Woods,Rick Day,Dan Hoff,West,1 up,18
+473,2011,Circling Raven,Best Ball,2,Rick Williams,Rick Catlin,Ken Enyeart,Kris Martinson,East,3 & 2,16
+474,2011,Circling Raven,Best Ball,2,Larry Sadler,Ron Potter,Matt Evans,Scott Evans,West,2 & 1,17
+475,2011,Circling Raven,Best Ball,2,Daniel Williams,Eric Jensvold,Dan Wigg,Bradey Day,West,1 up,18
+476,2011,Circling Raven,Best Ball,2,Brian Vosburgh,Steve Yocom,Robe Corsi,Bert Evans,East,3 & 2,16
+477,2011,Circling Raven,Best Ball,2,Buck Berndt,Frank Manterola,Marty Nehl,Bob Goodman,East,4 & 3,15
+478,2011,Circling Raven,Best Ball,2,Gerry Gotch,Terry Rossow,Mick Martinson Jr.,Pat Enloe,West,3 & 2,16
+479,2011,Circling Raven,Best Ball,2,Ben Firman,"Ralph Smith, Jr.",Keith Joyal,Scott Wilson,East,3 & 2,16
+480,2011,Circling Raven,Best Ball,2,Terry Firman,Greg Mooney,Jim Martinson,Tommy Armour,West,4 & 3,15
+481,2011,Circling Raven,Best Ball,2,Troy McNeight,Jim Rasmussen,Shayne Day,Mick Martinson,West,2 & 1,17
+482,2011,Circling Raven,Singles,3,Frank Manterola,,Marty Nehl,,East,4 & 2,16
+483,2011,Circling Raven,Singles,3,Steve Yocom,,Tommy Armour,,East,1 up,18
+484,2011,Circling Raven,Singles,3,Jim Rasmussen,,Dan Hoff,,West,3 & 2,16
+485,2011,Circling Raven,Singles,3,Terry Rossow,,Dan Wigg,,West,4 & 2,16
+486,2011,Circling Raven,Singles,3,Buck Berndt,,Scott Evans,,West,3 & 2,16
+487,2011,Circling Raven,Singles,3,Larry Sadler,,Ken Enyeart,,East,4 & 3,15
+488,2011,Circling Raven,Singles,3,Greg Mooney,,Shayne Day,,West,5 & 4,14
+489,2011,Circling Raven,Singles,3,Bill Bender,,Keith Joyal,,East,6 & 4,14
+490,2011,Circling Raven,Singles,3,Rick Williams,,Pat Enloe,,East,1 up,18
+491,2011,Circling Raven,Singles,3,Gerry Gotch,,Rick Day,,East,3 & 1,17
+492,2011,Circling Raven,Singles,3,Brian Vosburgh,,Mick Martinson,,East,3 & 1,17
+493,2011,Circling Raven,Singles,3,Terry Firman,,Bert Evans,,West,6 & 4,14
+494,2011,Circling Raven,Singles,3,Daniel Williams,,Kris Martinson,,West,4 & 3,15
+495,2011,Circling Raven,Singles,3,Ben Firman,,Jim Martinson,,West,5 & 4,14
+496,2011,Circling Raven,Singles,3,Rick Catlin,,Scott Wilson,,West,7 & 5,13
+497,2011,Circling Raven,Singles,3,Troy McNeight,,Mick Martinson Jr.,,East,2 up,18
+498,2011,Circling Raven,Singles,3,Ron Potter,,Robe Corsi,,Halved,Halved,18
+499,2011,Circling Raven,Singles,3,"Ralph Smith, Jr.",,Matt Evans,,Halved,Halved,18
+500,2011,Circling Raven,Singles,3,Norm Woods,,Bob Goodman,,West,6 & 5,13
+501,2011,Circling Raven,Singles,3,Eric Jensvold,,Bradey Day,,East,2 & 1,17
+502,2012,White Horse,Chapman,1,Rick Williams,Buck Berndt,Bert Evans,Matt Evans,West,1 up,18
+503,2012,White Horse,Chapman,1,Brian Vosburgh,Bill Bender,Tommy Armour,Ken Hammer,East,2 up,18
+504,2012,White Horse,Chapman,1,Ron Potter,Daniel Williams,Mick Martinson,Dan Wigg,East,3 & 1,17
+505,2012,White Horse,Chapman,1,Ben Firman,Terry Firman,Shayne Day,Rick Day,East,4 & 3,15
+506,2012,White Horse,Chapman,1,Frank Manterola,Eric Jensvold,Keith Joyal,Robe Corsi,West,2 & 1,17
+507,2012,White Horse,Chapman,1,Greg Mooney,Mark Countryman,Jim Martinson,Bradey Day,East,2 up,18
+508,2012,White Horse,Chapman,1,Doug Keith,"Ralph Smith, Jr.",Dan Hoff,Ken Enyeart,East,6 & 5,13
+509,2012,White Horse,Chapman,1,Terry Rossow,Gerry Gotch,Scott Wilson,Scott Evans,West,5 & 4,14
+510,2012,White Horse,Chapman,1,Troy McNeight,Norm Woods,Kris Martinson,Bob Goodman,West,1 up,18
+511,2012,White Horse,Chapman,1,Jim Rasmussen,Steve Yocom,Mick Martinson Jr.,Pat Enloe,East,4 & 3,15
+512,2012,White Horse,Best Ball,2,Doug Keith,Bill Bender,Bradey Day,Dan Wigg,East,1 up,18
+513,2012,White Horse,Best Ball,2,Frank Manterola,Greg Mooney,Scott Wilson,Rick Day,West,5 & 3,15
+514,2012,White Horse,Best Ball,2,Daniel Williams,Eric Jensvold,Dan Hoff,Ken Hammer,West,3 & 2,16
+515,2012,White Horse,Best Ball,2,Terry Firman,Ron Potter,Scott Evans,Mick Martinson Jr.,Halved,Halved,18
+516,2012,White Horse,Best Ball,2,"Ralph Smith, Jr.",Mark Countryman,Bert Evans,Tommy Armour,Halved,Halved,18
+517,2012,White Horse,Best Ball,2,Jim Rasmussen,Troy McNeight,Jim Martinson,Kris Martinson,West,7 & 6,12
+518,2012,White Horse,Best Ball,2,Gerry Gotch,Rick Williams,Ken Enyeart,Pat Enloe,West,4 & 3,15
+519,2012,White Horse,Best Ball,2,Brian Vosburgh,Buck Berndt,Mick Martinson,Shayne Day,West,6 & 5,13
+520,2012,White Horse,Best Ball,2,Norm Woods,Steve Yocom,Keith Joyal,Matt Evans,East,5 & 3,15
+521,2012,White Horse,Best Ball,2,Ben Firman,Terry Rossow,Bob Goodman,Robe Corsi,Halved,Halved,18
+522,2012,White Horse,Singles,3,Bill Bender,,Scott Wilson,,East,6 & 4,14
+523,2012,White Horse,Singles,3,Greg Mooney,,Mick Martinson Jr.,,West,4 & 3,15
+524,2012,White Horse,Singles,3,Rick Williams,,Rick Day,,West,6 & 5,13
+525,2012,White Horse,Singles,3,Daniel Williams,,Ken Enyeart,,West,4 & 3,15
+526,2012,White Horse,Singles,3,Mark Countryman,,Kris Martinson,,East,1 up,18
+527,2012,White Horse,Singles,3,Terry Firman,,Shayne Day,,Halved,Halved,18
+528,2012,White Horse,Singles,3,Steve Yocom,,Scott Evans,,East,5 & 3,15
+529,2012,White Horse,Singles,3,Doug Keith,,Robe Corsi,,West,5 & 3,15
+530,2012,White Horse,Singles,3,Jim Rasmussen,,Mick Martinson,,East,1 up,18
+531,2012,White Horse,Singles,3,"Ralph Smith, Jr.",,Pat Enloe,,East,4 & 3,15
+532,2012,White Horse,Singles,3,Terry Rossow,,Jim Martinson,,West,3 & 2,16
+533,2012,White Horse,Singles,3,Norm Woods,,Tommy Armour,,Halved,Halved,18
+534,2012,White Horse,Singles,3,Gerry Gotch,,Keith Joyal,,West,3 & 2,16
+535,2012,White Horse,Singles,3,Frank Manterola,,Matt Evans,,East,3 & 2,16
+536,2012,White Horse,Singles,3,Buck Berndt,,Bert Evans,,West,6 & 4,14
+537,2012,White Horse,Singles,3,Troy McNeight,,Bradey Day,,West,1 up,18
+538,2012,White Horse,Singles,3,Eric Jensvold,,Ken Hammer,,Halved,Halved,18
+539,2012,White Horse,Singles,3,Brian Vosburgh,,Bob Goodman,,East,Win (margin not recorded),
+540,2012,White Horse,Singles,3,Ben Firman,,Dan Wigg,,West,3 & 2,16
+541,2012,White Horse,Singles,3,Ron Potter,,Dan Hoff,,West,4 & 2,16
+542,2013,Wildhorse,Chapman,1,Larry Sadler,Jim Rasmussen,Bert Evans,Ken Enyeart,East,2 & 1,17
+543,2013,Wildhorse,Chapman,1,Terry Rossow,Troy McNeight,Scott Evans,Dan Wigg,Halved,Halved,18
+544,2013,Wildhorse,Chapman,1,Doug Keith,Gerry Gotch,Mick Martinson,Dan Hoff,West,4 & 3,15
+545,2013,Wildhorse,Chapman,1,Norm Woods,Paul Chrismer,Robe Corsi,Bob Goodman,East,2 & 1,17
+546,2013,Wildhorse,Chapman,1,Brian Vosburgh,Bill Bender,Jim Martinson,Rick Day,East,6 & 4,14
+547,2013,Wildhorse,Chapman,1,Ben Firman,Terry Firman,Mick Martinson Jr.,Kris Martinson,West,3 & 2,16
+548,2013,Wildhorse,Chapman,1,Ron Potter,Daniel Williams,Scott Wilson,Keith Joyal,Halved,Halved,18
+549,2013,Wildhorse,Chapman,1,Greg Mooney,Frank Manterola,Shayne Day,Marty Nehl,Halved,Halved,18
+550,2013,Wildhorse,Chapman,1,Eric Jensvold,Mark Countryman,Pat Enloe,Matt Evans,West,5 & 4,14
+551,2013,Wildhorse,Best Ball,2,Gerry Gotch,Bill Bender,Bob Goodman,Dan Hoff,Halved,Halved,18
+552,2013,Wildhorse,Best Ball,2,Jim Rasmussen,Terry Rossow,Marty Nehl,Scott Wilson,West,3 & 2,16
+553,2013,Wildhorse,Best Ball,2,Paul Chrismer,Ron Potter,Bert Evans,Scott Evans,East,1 up,18
+554,2013,Wildhorse,Best Ball,2,Rick Catlin,Terry Firman,Rick Day,Kris Martinson,East,4 & 3,15
+555,2013,Wildhorse,Best Ball,2,Daniel Williams,Greg Mooney,Jim Martinson,Mick Martinson Jr.,East,2 up,18
+556,2013,Wildhorse,Best Ball,2,Ben Firman,Mark Countryman,Shayne Day,Mick Martinson,West,1 up,18
+557,2013,Wildhorse,Best Ball,2,Troy McNeight,Larry Sadler,Dan Wigg,Pat Enloe,East,6 & 4,14
+558,2013,Wildhorse,Best Ball,2,Brian Vosburgh,Eric Jensvold,Ken Enyeart,Robe Corsi,West,6 & 5,13
+559,2013,Wildhorse,Best Ball,2,Norm Woods,Doug Keith,Matt Evans,Keith Joyal,East,3 & 2,16
+560,2013,Wildhorse,Singles,3,Gerry Gotch,,Rick Day,,East,2 up,18
+561,2013,Wildhorse,Singles,3,Eric Jensvold,,Matt Evans,,West,2 & 1,17
+562,2013,Wildhorse,Singles,3,Paul Chrismer,,Scott Wilson,,East,3 & 1,17
+563,2013,Wildhorse,Singles,3,Troy McNeight,,Shayne Day,,East,1 up,18
+564,2013,Wildhorse,Singles,3,Mark Countryman,,Mick Martinson Jr.,,West,5 & 4,14
+565,2013,Wildhorse,Singles,3,Greg Mooney,,Bert Evans,,East,1 up,18
+566,2013,Wildhorse,Singles,3,Daniel Williams,,Dan Hoff,,West,6 & 5,13
+567,2013,Wildhorse,Singles,3,Terry Firman,,Robe Corsi,,West,1 up,18
+568,2013,Wildhorse,Singles,3,Norm Woods,,Jim Martinson,,West,1 up,18
+569,2013,Wildhorse,Singles,3,Terry Rossow,,Keith Joyal,,West,2 & 1,17
+570,2013,Wildhorse,Singles,3,Rick Catlin,,Dan Wigg,,Halved,Halved,18
+571,2013,Wildhorse,Singles,3,Ben Firman,,Scott Evans,,East,2 up,18
+572,2013,Wildhorse,Singles,3,Ron Potter,,Mick Martinson,,West,3 & 1,17
+573,2013,Wildhorse,Singles,3,Bill Bender,,Kris Martinson,,East,1 up,18
+574,2013,Wildhorse,Singles,3,Jim Rasmussen,,Pat Enloe,,West,4 & 2,16
+575,2013,Wildhorse,Singles,3,Doug Keith,,Marty Nehl,,West,6 & 4,14
+576,2013,Wildhorse,Singles,3,Larry Sadler,,Ken Enyeart,,East,3 & 2,16
+577,2013,Wildhorse,Singles,3,Brian Vosburgh,,Bob Goodman,,East,2 & 1,17
+578,2014,Salish Cliffs,Chapman,1,Norm Woods,Gary Winegar,Mick Martinson,Matt Evans,Halved,Halved,18
+579,2014,Salish Cliffs,Chapman,1,Steve Yocom,Mark Countryman,Mick Martinson Jr.,Ben Headland,West,2 & 1,17
+580,2014,Salish Cliffs,Chapman,1,Rick Catlin,Troy McNeight,Jim Martinson,Pat Lachepelle,East,2 & 1,17
+581,2014,Salish Cliffs,Chapman,1,Ron Potter,Daniel Williams,Shayne Day,Bradey Day,East,2 & 1,17
+582,2014,Salish Cliffs,Chapman,1,Brian Vosburgh,Bill Bender,Bert Evans,Keith Joyal,West,1 up,18
+583,2014,Salish Cliffs,Chapman,1,Joel Smith,Terry Firman,Dan Wigg,Kris Martinson,East,2 & 1,17
+584,2014,Salish Cliffs,Chapman,1,Doug Keith,"Ralph Smith, Jr.",Scott Wilson,Pat Enloe,West,2 & 1,17
+585,2014,Salish Cliffs,Chapman,1,Greg Mooney,Gerry Gotch,Dan Hoff,Rick Day,West,4 & 3,15
+586,2014,Salish Cliffs,Chapman,1,Ben Firman,Paul Chrismer,Tommy Armour,Bob Goodman,East,2 & 1,17
+587,2014,Salish Cliffs,Chapman,1,Larry Sadler,Jim Rasmussen,Robe Corsi,Ken Enyeart,East,1 up,18
+588,2014,Salish Cliffs,Best Ball,2,Paul Chrismer,Gary Winegar,Jim Martinson,Dan Hoff,Halved,Halved,18
+589,2014,Salish Cliffs,Best Ball,2,Bill Bender,Gerry Gotch,Tommy Armour,Dan Wigg,West,7 & 5,13
+590,2014,Salish Cliffs,Best Ball,2,Norm Woods,Doug Keith,Scott Wilson,Ken Enyeart,West,4 & 2,16
+591,2014,Salish Cliffs,Best Ball,2,Brian Vosburgh,"Ralph Smith, Jr.",Matt Evans,Bradey Day,West,3 & 2,16
+592,2014,Salish Cliffs,Best Ball,2,Troy McNeight,Joel Smith,Mick Martinson Jr.,Kris Martinson,West,2 & 1,17
+593,2014,Salish Cliffs,Best Ball,2,Jim Rasmussen,Steve Yocom,Keith Joyal,Ben Headland,East,3 & 2,16
+594,2014,Salish Cliffs,Best Ball,2,Rick Catlin,Terry Firman,Bert Evans,Pat Lachepelle,East,6 & 4,14
+595,2014,Salish Cliffs,Best Ball,2,Ben Firman,Daniel Williams,Robe Corsi,Pat Enloe,Halved,Halved,18
+596,2014,Salish Cliffs,Best Ball,2,Larry Sadler,Mark Countryman,Mick Martinson,Shayne Day,West,2 up,18
+597,2014,Salish Cliffs,Best Ball,2,Ron Potter,Greg Mooney,Bob Goodman,Rick Day,West,4 & 2,16
+598,2014,Salish Cliffs,Singles,3,Doug Keith,,Dan Hoff,,Halved,Halved,18
+599,2014,Salish Cliffs,Singles,3,Rick Catlin,,Rick Day,,East,3 & 2,16
+600,2014,Salish Cliffs,Singles,3,Bill Bender,,Ben Headland,,West,2 & 1,17
+601,2014,Salish Cliffs,Singles,3,Gary Winegar,,Pat Enloe,,East,3 & 2,16
+602,2014,Salish Cliffs,Singles,3,Brian Vosburgh,,Bob Goodman,,West,1 up,18
+603,2014,Salish Cliffs,Singles,3,Larry Sadler,,Pat Lachepelle,,East,1 up,18
+604,2014,Salish Cliffs,Singles,3,Norm Woods,,Bert Evans,,East,1 up,18
+605,2014,Salish Cliffs,Singles,3,Daniel Williams,,Keith Joyal,,East,2 & 1,17
+606,2014,Salish Cliffs,Singles,3,Terry Firman,,Bradey Day,,East,5 & 3,15
+607,2014,Salish Cliffs,Singles,3,Gerry Gotch,,Robe Corsi,,Halved,Halved,18
+608,2014,Salish Cliffs,Singles,3,Ben Firman,,Kris Martinson,,Halved,Halved,18
+609,2014,Salish Cliffs,Singles,3,Greg Mooney,,Shayne Day,,West,1 up,18
+610,2014,Salish Cliffs,Singles,3,"Ralph Smith, Jr.",,Matt Evans,,East,5 & 3,15
+611,2014,Salish Cliffs,Singles,3,Jim Rasmussen,,Tommy Armour,,Halved,Halved,18
+612,2014,Salish Cliffs,Singles,3,Paul Chrismer,,Jim Martinson,,East,5 & 3,15
+613,2014,Salish Cliffs,Singles,3,Troy McNeight,,Dan Wigg,,Halved,Halved,18
+614,2014,Salish Cliffs,Singles,3,Steve Yocom,,Mick Martinson Jr.,,West,4 & 3,15
+615,2014,Salish Cliffs,Singles,3,Joel Smith,,Mick Martinson,,West,1 up,18
+616,2014,Salish Cliffs,Singles,3,Mark Countryman,,Scott Wilson,,West,1 up,18
+617,2014,Salish Cliffs,Singles,3,Ron Potter,,Ken Enyeart,,East,2 & 1,17
+618,2015,Circling Raven,Chapman,1,Mike Rowley,Gary Winegar,Pat Lachepelle,Bradey Day,East,2 & 1,17
+619,2015,Circling Raven,Chapman,1,Steve Yocom,Jim Rasmussen,Dan Wigg,Robe Corsi,West,3 & 2,16
+620,2015,Circling Raven,Chapman,1,Mike Cole,Troy McNeight,Bert Evans,Tommy Armour,East,3 & 2,16
+621,2015,Circling Raven,Chapman,1,Ron Potter,Daniel Williams,Mick Martinson,Bob Goodman,East,3 & 2,16
+622,2015,Circling Raven,Chapman,1,Mark Countryman,Matt Sharp,Jim Martinson,Alec Martinson,West,2 & 1,17
+623,2015,Circling Raven,Chapman,1,Larry Sadler,Terry Firman,Scott Wilson,Mick Martinson Jr.,East,5 & 3,15
+624,2015,Circling Raven,Chapman,1,Ben Firman,"Ralph Smith, Jr.",Rick Day,Dan Hoff,West,1 up,18
+625,2015,Circling Raven,Chapman,1,Greg Mooney,Ron Ballmer,Keith Joyal,Pat Enloe,East,2 & 1,17
+626,2015,Circling Raven,Chapman,1,Norm Woods,Paul Chrismer,Shayne Day,Matt Evans,East,1 up,18
+627,2015,Circling Raven,Chapman,1,Gerry Gotch,Terry Rossow,Ken Enyeart,Ben Headland,East,1 up,18
+628,2015,Circling Raven,Best Ball,2,Paul Chrismer,Gary Winegar,Keith Joyal,Scott Wilson,West,2 & 1,17
+629,2015,Circling Raven,Best Ball,2,Greg Mooney,Gerry Gotch,Mick Martinson,Shayne Day,West,3 & 1,17
+630,2015,Circling Raven,Best Ball,2,Norm Woods,Steve Yocom,Jim Martinson,Bob Goodman,Halved,Halved,18
+631,2015,Circling Raven,Best Ball,2,Matt Sharp,Ben Firman,Bradey Day,Dan Wigg,East,1 up,18
+632,2015,Circling Raven,Best Ball,2,Mark Countryman,Ron Ballmer,Tommy Armour,Pat Lachepelle,Halved,Halved,18
+633,2015,Circling Raven,Best Ball,2,Jim Rasmussen,Larry Sadler,Pat Enloe,Matt Evans,East,3 & 2,16
+634,2015,Circling Raven,Best Ball,2,Mike Rowley,Terry Firman,Bert Evans,Rick Day,East,4 & 3,15
+635,2015,Circling Raven,Best Ball,2,Troy McNeight,Daniel Williams,Mick Martinson Jr.,Ben Headland,West,2 & 1,17
+636,2015,Circling Raven,Best Ball,2,Mike Cole,"Ralph Smith, Jr.",Ken Enyeart,Robe Corsi,East,5 & 3,15
+637,2015,Circling Raven,Best Ball,2,Ron Potter,Terry Rossow,Alec Martinson,Dan Hoff,East,1 up,18
+638,2015,Circling Raven,Singles,3,Jim Rasmussen,,Ken Enyeart,,East,1 up,18
+639,2015,Circling Raven,Singles,3,Daniel Williams,,Dan Hoff,,East,4 & 3,15
+640,2015,Circling Raven,Singles,3,Norm Woods,,Pat Lachepelle,,Halved,Halved,18
+641,2015,Circling Raven,Singles,3,Gary Winegar,,Matt Evans,,West,Win (margin not recorded),
+642,2015,Circling Raven,Singles,3,Mark Countryman,,Shayne Day,,East,2 & 1,17
+643,2015,Circling Raven,Singles,3,Ron Ballmer,,Alec Martinson,,East,1 up,18
+644,2015,Circling Raven,Singles,3,Mike Cole,,Mick Martinson,,East,5 & 4,14
+645,2015,Circling Raven,Singles,3,"Ralph Smith, Jr.",,Keith Joyal,,East,5 & 3,15
+646,2015,Circling Raven,Singles,3,Ron Potter,,Jim Martinson,,East,5 & 4,14
+647,2015,Circling Raven,Singles,3,Terry Rossow,,Pat Enloe,,West,2 & 1,17
+648,2015,Circling Raven,Singles,3,Gerry Gotch,,Dan Wigg,,West,5 & 4,14
+649,2015,Circling Raven,Singles,3,Greg Mooney,,Bert Evans,,East,1 up,18
+650,2015,Circling Raven,Singles,3,Mike Rowley,,Tommy Armour,,East,2 & 1,17
+651,2015,Circling Raven,Singles,3,Ben Firman,,Scott Wilson,,East,5 & 4,14
+652,2015,Circling Raven,Singles,3,Paul Chrismer,,Bradey Day,,West,3 & 2,16
+653,2015,Circling Raven,Singles,3,Troy McNeight,,Robe Corsi,,East,3 & 2,16
+654,2015,Circling Raven,Singles,3,Terry Firman,,Ben Headland,,East,5 & 4,14
+655,2015,Circling Raven,Singles,3,Matt Sharp,,Mick Martinson Jr.,,West,2 & 1,17
+656,2015,Circling Raven,Singles,3,Steve Yocom,,Rick Day,,East,5 & 3,15
+657,2015,Circling Raven,Singles,3,Larry Sadler,,Bob Goodman,,West,3 & 2,16
+658,2016,White Horse,Chapman,1,Joel Smith,Jim Rasmussen,Keith Joyal,Ben Headland,West,3 & 2,16
+659,2016,White Horse,Chapman,1,Mike Cole,Troy McNeight,Mick Martinson,Dan Hoff,East,5 & 4,14
+660,2016,White Horse,Chapman,1,Ron Potter,Daniel Williams,Bert Evans,Craig Benson,East,3 & 1,17
+661,2016,White Horse,Chapman,1,Terry Rossow,Larry Sadler,Scott Wilson,Jim Martinson,West,4 & 3,15
+662,2016,White Horse,Chapman,1,Ron Jones,Mark Countryman,Alec Martinson,Bradey Day,West,3 & 2,16
+663,2016,White Horse,Chapman,1,Terry Firman,Rick Catlin,Rick Day,Ken Enyeart,West,2 & 1,17
+664,2016,White Horse,Chapman,1,Ben Firman,Mike Rowley,Tommy Armour,Dan Wigg,East,3 & 2,16
+665,2016,White Horse,Chapman,1,Matt Sharp,Jessie Gold,Shayne Day,Mick Martinson Jr.,East,5 & 4,14
+666,2016,White Horse,Chapman,1,"Ralph Smith, Jr.",Steve Yocom,Pat Enloe,Matt Evans,East,2 & 1,17
+667,2016,White Horse,Chapman,1,Norm Woods,Paul Chrismer,Bob Goodman,Robe Corsi,East,6 & 5,13
+668,2016,White Horse,Best Ball,2,Troy McNeight,Jim Rasmussen,Craig Benson,Robe Corsi,East,6 & 5,13
+669,2016,White Horse,Best Ball,2,Larry Sadler,Paul Chrismer,Scott Wilson,Pat Enloe,East,6 & 4,14
+670,2016,White Horse,Best Ball,2,Mike Cole,"Ralph Smith, Jr.",Jim Martinson,Keith Joyal,West,3 & 2,16
+671,2016,White Horse,Best Ball,2,Matt Sharp,Ron Jones,Bert Evans,Dan Hoff,West,4 & 3,15
+672,2016,White Horse,Best Ball,2,Terry Rossow,Ron Potter,Ben Headland,Dan Wigg,West,4 & 3,15
+673,2016,White Horse,Best Ball,2,Norm Woods,Steve Yocom,Bob Goodman,Bradey Day,East,3 & 2,16
+674,2016,White Horse,Best Ball,2,Rick Catlin,Joel Smith,Mick Martinson,Shayne Day,East,1 up,18
+675,2016,White Horse,Best Ball,2,Terry Firman,Mike Rowley,Tommy Armour,Rick Day,East,5 & 4,14
+676,2016,White Horse,Best Ball,2,Daniel Williams,Ben Firman,Mick Martinson Jr.,Alec Martinson,East,6 & 5,13
+677,2016,White Horse,Best Ball,2,Mark Countryman,Jessie Gold,Ken Enyeart,Matt Evans,East,3 & 1,17
+678,2016,White Horse,Singles,3,Joel Smith,,Bob Goodman,,East,3 & 2,16
+679,2016,White Horse,Singles,3,Mike Cole,,Craig Benson,,Halved,Halved,18
+680,2016,White Horse,Singles,3,Steve Yocom,,Ken Enyeart,,West,3 & 2,16
+681,2016,White Horse,Singles,3,Larry Sadler,,Dan Wigg,,East,2 & 1,17
+682,2016,White Horse,Singles,3,"Ralph Smith, Jr.",,Rick Day,,East,5 & 4,14
+683,2016,White Horse,Singles,3,Paul Chrismer,,Robe Corsi,,East,2 & 1,17
+684,2016,White Horse,Singles,3,Mark Countryman,,Dan Hoff,,West,8 & 6,12
+685,2016,White Horse,Singles,3,Jim Rasmussen,,Pat Enloe,,East,2 & 1,17
+686,2016,White Horse,Singles,3,Terry Rossow,,Mick Martinson Jr.,,West,3 & 2,16
+687,2016,White Horse,Singles,3,Rick Catlin,,Jim Martinson,,East,1 up,18
+688,2016,White Horse,Singles,3,Ron Jones,,Shayne Day,,West,1 up,18
+689,2016,White Horse,Singles,3,Terry Firman,,Keith Joyal,,West,2 & 1,17
+690,2016,White Horse,Singles,3,Troy McNeight,,Mick Martinson,,West,6 & 5,13
+691,2016,White Horse,Singles,3,Norm Woods,,Bradey Day,,East,1 up,18
+692,2016,White Horse,Singles,3,Jessie Gold,,Bert Evans,,West,3 & 2,16
+693,2016,White Horse,Singles,3,Ben Firman,,Ben Headland,,West,3 & 2,16
+694,2016,White Horse,Singles,3,Daniel Williams,,Scott Wilson,,East,4 & 3,15
+695,2016,White Horse,Singles,3,Mike Rowley,,Matt Evans,,West,5 & 3,15
+696,2016,White Horse,Singles,3,Matt Sharp,,Alec Martinson,,West,3 & 2,16
+697,2016,White Horse,Singles,3,Ron Potter,,Tommy Armour,,East,3 & 2,16
+698,2017,Desert Canyon,Chapman,1,Mark Countryman,Greg Mooney,Keith Joyal,Ben Headland,East,4 & 2,16
+699,2017,Desert Canyon,Chapman,1,Jim Rasmussen,Larry Sadler,Bert Evans,Matt Evans,East,1 up,18
+700,2017,Desert Canyon,Chapman,1,Terry Firman,Francis Santiago,Alec Martinson,Bradey Day,East,2 up,18
+701,2017,Desert Canyon,Chapman,1,Terry Rossow,Rick Catlin,Chad Evans,Jim Martinson,West,5 & 4,14
+702,2017,Desert Canyon,Chapman,1,"Ralph Smith, Jr.",Steve Yocom,Ken Enyeart,Rick Day,East,2 up,18
+703,2017,Desert Canyon,Chapman,1,Ron Potter,Mark Lewis,Kris Martinson,Mick Martinson Jr.,East,1 up,18
+704,2017,Desert Canyon,Chapman,1,Paul Chrismer,Norm Woods,Mick Martinson,Dan Hoff,West,2 up,18
+705,2017,Desert Canyon,Chapman,1,Matt Sharp,Ben Firman,Shayne Day,Scott Wilson,West,3 & 2,16
+706,2017,Desert Canyon,Chapman,1,Troy McNeight,Mike Cole,Tommy Armour,Craig Benson,Halved,Halved,18
+707,2017,Desert Canyon,Chapman,1,Joel Smith,Mike Rowley,Robe Corsi,Bob Goodman,East,6 & 5,13
+708,2017,Desert Canyon,Best Ball,2,Mike Cole,"Ralph Smith, Jr.",Bob Goodman,Chad Evans,West,3 & 2,16
+709,2017,Desert Canyon,Best Ball,2,Rick Catlin,Joel Smith,Matt Evans,Scott Wilson,West,2 & 1,17
+710,2017,Desert Canyon,Best Ball,2,Terry Firman,Mike Rowley,Bert Evans,Dan Hoff,West,2 & 1,17
+711,2017,Desert Canyon,Best Ball,2,Troy McNeight,Jim Rasmussen,Jim Martinson,Keith Joyal,West,4 & 3,15
+712,2017,Desert Canyon,Best Ball,2,Terry Rossow,Mark Lewis,Mick Martinson,Shayne Day,West,2 up,18
+713,2017,Desert Canyon,Best Ball,2,Ron Potter,Matt Sharp,Ken Enyeart,Robe Corsi,East,2 up,18
+714,2017,Desert Canyon,Best Ball,2,Steve Yocom,Norm Woods,Bradey Day,Rick Day,East,2 & 1,17
+715,2017,Desert Canyon,Best Ball,2,Paul Chrismer,Larry Sadler,Alec Martinson,Tommy Armour,East,2 & 1,17
+716,2017,Desert Canyon,Best Ball,2,Mark Countryman,Greg Mooney,Craig Benson,Mick Martinson Jr.,East,Win (margin not recorded),
+717,2017,Desert Canyon,Best Ball,2,Ben Firman,Francis Santiago,Ben Headland,Kris Martinson,East,5 & 4,14
+718,2017,Desert Canyon,Singles,3,Steve Yocom,,Keith Joyal,,Halved,Halved,18
+719,2017,Desert Canyon,Singles,3,Norm Woods,,Chad Evans,,West,7 & 5,13
+720,2017,Desert Canyon,Singles,3,Paul Chrismer,,Bert Evans,,Halved,Halved,18
+721,2017,Desert Canyon,Singles,3,Troy McNeight,,Scott Wilson,,West,4 & 3,15
+722,2017,Desert Canyon,Singles,3,Mark Countryman,,Mick Martinson,,East,3 & 2,16
+723,2017,Desert Canyon,Singles,3,Mike Cole,,Ben Headland,,East,3 & 2,16
+724,2017,Desert Canyon,Singles,3,Ben Firman,,Bradey Day,,West,2 up,18
+725,2017,Desert Canyon,Singles,3,Terry Firman,,Tommy Armour,,West,2 up,18
+726,2017,Desert Canyon,Singles,3,Joel Smith,,Jim Martinson,,East,6 & 4,14
+727,2017,Desert Canyon,Singles,3,Terry Rossow,,Alec Martinson,,West,4 & 3,15
+728,2017,Desert Canyon,Singles,3,"Ralph Smith, Jr.",,Kris Martinson,,East,4 & 2,16
+729,2017,Desert Canyon,Singles,3,Larry Sadler,,Robe Corsi,,East,2 up,18
+730,2017,Desert Canyon,Singles,3,Francis Santiago,,Mick Martinson Jr.,,Halved,Halved,18
+731,2017,Desert Canyon,Singles,3,Ron Potter,,Matt Evans,,East,2 up,18
+732,2017,Desert Canyon,Singles,3,Jim Rasmussen,,Bob Goodman,,West,4 & 2,16
+733,2017,Desert Canyon,Singles,3,Matt Sharp,,Shayne Day,,West,2 & 1,17
+734,2017,Desert Canyon,Singles,3,Ron Ballmer,,Dan Hoff,,East,2 & 1,17
+735,2017,Desert Canyon,Singles,3,Rick Catlin,,Ken Enyeart,,East,7 & 5,13
+736,2017,Desert Canyon,Singles,3,Mark Lewis,,Rick Day,,West,2 up,18
+737,2017,Desert Canyon,Singles,3,Mike Rowley,,Craig Benson,,Halved,Halved,18
+738,2018,Salish Cliffs,Chapman,1,Mike Rowley,Joel Smith,Bob Carnevale,Craig Benson,East,7 & 6,12
+739,2018,Salish Cliffs,Chapman,1,Jim Rasmussen,Larry Sadler,Rick Day,Keith Joyal,East,3 & 2,16
+740,2018,Salish Cliffs,Chapman,1,Rick Catlin,Todd Forgey,Tommy Armour,Dave Appleby,West,4 & 3,15
+741,2018,Salish Cliffs,Chapman,1,Francis Santiago,Trey Heffner,Bert Evans,Dan Wigg,West,3 & 2,16
+742,2018,Salish Cliffs,Chapman,1,Ben Firman,Kevin Wyllie,Mick Martinson Jr.,Ben Headland,East,2 & 1,17
+743,2018,Salish Cliffs,Chapman,1,Terry Firman,Terry Rossow,Scott Wilson,Alec Martinson,West,2 & 1,17
+744,2018,Salish Cliffs,Chapman,1,Mark Countryman,Matt Sharp,Jim Martinson,Grant Cation,East,1 up,18
+745,2018,Salish Cliffs,Chapman,1,Paul Chrismer,Norm Woods,Bradey Day,Mick Martinson,East,2 up,18
+746,2018,Salish Cliffs,Chapman,1,"Ralph Smith, Jr.",Steve Yocom,Pat Enloe,Matt Evans,Halved,Halved,18
+747,2018,Salish Cliffs,Chapman,1,Mark Lewis,Steve Gunn,Kris Martinson,Bob Goodman,West,2 & 1,17
+748,2018,Salish Cliffs,Best Ball,2,Steve Yocom,Norm Woods,Bob Goodman,Craig Benson,West,1 up,18
+749,2018,Salish Cliffs,Best Ball,2,Terry Rossow,Joel Smith,Tommy Armour,Dave Appleby,East,3 & 2,16
+750,2018,Salish Cliffs,Best Ball,2,Mike Rowley,Matt Sharp,Bradey Day,Rick Day,West,2 & 1,17
+751,2018,Salish Cliffs,Best Ball,2,Paul Chrismer,Larry Sadler,Kris Martinson,Grant Cation,Halved,Halved,18
+752,2018,Salish Cliffs,Best Ball,2,Kevin Wyllie,Trey Heffner,Jim Martinson,Keith Joyal,Halved,Halved,18
+753,2018,Salish Cliffs,Best Ball,2,Terry Firman,Rick Catlin,Bert Evans,Bob Carnevale,Halved,Halved,18
+754,2018,Salish Cliffs,Best Ball,2,Mark Lewis,Todd Forgey,Mick Martinson,Mick Martinson Jr.,West,2 up,18
+755,2018,Salish Cliffs,Best Ball,2,Francis Santiago,Ben Firman,Alec Martinson,Ben Headland,East,2 & 1,17
+756,2018,Salish Cliffs,Best Ball,2,Jim Rasmussen,Mark Countryman,Matt Evans,Pat Enloe,East,6 & 5,13
+757,2018,Salish Cliffs,Best Ball,2,Steve Gunn,"Ralph Smith, Jr.",Scott Wilson,Dan Wigg,West,2 & 1,17
+758,2018,Salish Cliffs,Singles,3,"Ralph Smith, Jr.",,Keith Joyal,,West,2 & 1,17
+759,2018,Salish Cliffs,Singles,3,Jim Rasmussen,,Dave Appleby,,West,1 up,18
+760,2018,Salish Cliffs,Singles,3,Terry Rossow,,Dan Wigg,,West,3 & 2,16
+761,2018,Salish Cliffs,Singles,3,Paul Chrismer,,Bert Evans,,West,3 & 2,16
+762,2018,Salish Cliffs,Singles,3,Mike Rowley,,Bradey Day,,Halved,Halved,18
+763,2018,Salish Cliffs,Singles,3,Larry Sadler,,Craig Benson,,Halved,Halved,18
+764,2018,Salish Cliffs,Singles,3,Matt Sharp,,Grant Cation,,West,5 & 4,14
+765,2018,Salish Cliffs,Singles,3,Steve Gunn,,Ben Headland,,West,3 & 2,16
+766,2018,Salish Cliffs,Singles,3,Steve Yocom,,Scott Wilson,,West,4 & 2,16
+767,2018,Salish Cliffs,Singles,3,Mark Lewis,,Bob Goodman,,East,5 & 3,15
+768,2018,Salish Cliffs,Singles,3,Kevin Wyllie,,Mick Martinson,,West,5 & 3,15
+769,2018,Salish Cliffs,Singles,3,Terry Firman,,Kris Martinson,,West,4 & 3,15
+770,2018,Salish Cliffs,Singles,3,Francis Santiago,,Bob Carnevale,,West,3 & 1,17
+771,2018,Salish Cliffs,Singles,3,Rick Catlin,,Pat Enloe,,East,5 & 3,15
+772,2018,Salish Cliffs,Singles,3,Trey Heffner,,Mick Martinson Jr.,,West,8 & 6,12
+773,2018,Salish Cliffs,Singles,3,Ben Firman,,Matt Evans,,East,2 & 1,17
+774,2018,Salish Cliffs,Singles,3,Mark Countryman,,Tommy Armour,,East,3 & 1,17
+775,2018,Salish Cliffs,Singles,3,Todd Forgey,,Jim Martinson,,West,2 & 1,17
+776,2018,Salish Cliffs,Singles,3,Norm Woods,,Alec Martinson,,East,2 & 1,17
+777,2018,Salish Cliffs,Singles,3,Joel Smith,,Rick Day,,West,2 up,18
+778,2019,Columbia Pointe,Chapman,1,Todd Forgey,Larry Sadler,Keith Joyal,Bradey Day,East,2 & 1,17
+779,2019,Columbia Pointe,Chapman,1,Paul Chrismer,Norm Woods,Bert Evans,Marty Nehl,East,3 & 1,17
+780,2019,Columbia Pointe,Chapman,1,Rick Catlin,Terry Rossow,Ben Headland,Mick Martinson Jr.,West,5 & 3,15
+781,2019,Columbia Pointe,Chapman,1,Steve Yocom,"Ralph Smith, Jr.",Don Minklein,Jon Brady,West,1 up,18
+782,2019,Columbia Pointe,Chapman,1,Mike Rowley,Mike Cole,Rick Day,Jim Martinson,West,3 & 2,16
+783,2019,Columbia Pointe,Chapman,1,Shawn Hedrick,Terry Firman,Scott Wilson,Pat Enloe,East,2 & 1,17
+784,2019,Columbia Pointe,Chapman,1,Mark Countryman,Greg Mooney,Shayne Day,Craig Benson,West,4 & 2,16
+785,2019,Columbia Pointe,Chapman,1,Ben Firman,Alex Della,Mick Martinson,Dan Wigg,East,2 & 1,17
+786,2019,Columbia Pointe,Chapman,1,Trey Heffner,Matt Dormann,Alec Martinson,Kris Martinson,East,3 & 2,16
+787,2019,Columbia Pointe,Chapman,1,Steve Gunn,Mark Lewis,Matt Evans,Bob Goodman,East,2 & 1,17
+788,2019,Columbia Pointe,Best Ball,2,Larry Sadler,Terry Rossow,Bob Goodman,Marty Nehl,West,3 & 2,16
+789,2019,Columbia Pointe,Best Ball,2,Steve Yocom,Norm Woods,Rick Day,Craig Benson,East,4 & 3,15
+790,2019,Columbia Pointe,Best Ball,2,Mark Countryman,Steve Gunn,Kris Martinson,Scott Wilson,East,2 & 1,17
+791,2019,Columbia Pointe,Best Ball,2,Paul Chrismer,Mike Cole,Dan Wigg,Jon Brady,West,3 & 1,17
+792,2019,Columbia Pointe,Best Ball,2,Todd Forgey,Rick Catlin,Bradey Day,Pat Enloe,West,4 & 3,15
+793,2019,Columbia Pointe,Best Ball,2,Ben Firman,Matt Dormann,Mick Martinson,Shayne Day,East,3 & 2,16
+794,2019,Columbia Pointe,Best Ball,2,Shawn Hedrick,Trey Heffner,Jim Martinson,Keith Joyal,East,4 & 3,15
+795,2019,Columbia Pointe,Best Ball,2,Terry Firman,Alex Della,Don Minklein,Bert Evans,East,3 & 1,17
+796,2019,Columbia Pointe,Best Ball,2,"Ralph Smith, Jr.",Greg Mooney,Alec Martinson,Ben Headland,West,1 up,18
+797,2019,Columbia Pointe,Best Ball,2,Mike Rowley,Mark Lewis,Matt Evans,Mick Martinson Jr.,East,4 & 3,15
+798,2019,Columbia Pointe,Singles,3,Todd Forgey,,Rick Day,,West,3 & 2,16
+799,2019,Columbia Pointe,Singles,3,Mark Lewis,,Craig Benson,,East,3 & 2,16
+800,2019,Columbia Pointe,Singles,3,Rick Catlin,,Jim Martinson,,Halved,Halved,18
+801,2019,Columbia Pointe,Singles,3,Terry Firman,,Bob Goodman,,East,1 up,18
+802,2019,Columbia Pointe,Singles,3,Mark Countryman,,Ben Headland,,Halved,Halved,18
+803,2019,Columbia Pointe,Singles,3,Shawn Hedrick,,Keith Joyal,,East,1 up,18
+804,2019,Columbia Pointe,Singles,3,Mike Rowley,,Alec Martinson,,West,3 & 1,17
+805,2019,Columbia Pointe,Singles,3,Terry Rossow,,Mick Martinson,,Halved,Halved,18
+806,2019,Columbia Pointe,Singles,3,Mike Cole,,Mick Martinson Jr.,,East,5 & 3,15
+807,2019,Columbia Pointe,Singles,3,Alex Della,,Kris Martinson,,East,6 & 5,13
+808,2019,Columbia Pointe,Singles,3,Matt Dormann,,Shayne Day,,East,1 up,18
+809,2019,Columbia Pointe,Singles,3,Greg Mooney,,Bert Evans,,East,1 up,18
+810,2019,Columbia Pointe,Singles,3,"Ralph Smith, Jr.",,Marty Nehl,,West,3 & 2,16
+811,2019,Columbia Pointe,Singles,3,Paul Chrismer,,Scott Wilson,,West,5 & 4,14
+812,2019,Columbia Pointe,Singles,3,Ben Firman,,Jon Brady,,East,1 up,18
+813,2019,Columbia Pointe,Singles,3,Norm Woods,,Don Minklein,,West,1 up,18
+814,2019,Columbia Pointe,Singles,3,Steve Gunn,,Bradey Day,,Halved,Halved,18
+815,2019,Columbia Pointe,Singles,3,Steve Yocom,,Dan Wigg,,West,5 & 4,14
+816,2019,Columbia Pointe,Singles,3,Trey Heffner,,Pat Enloe,,East,1 up,18
+817,2019,Columbia Pointe,Singles,3,Larry Sadler,,Matt Evans,,East,5 & 3,15
+818,2021,Circling Raven,Chapman,1,Steve Gunn,Steve Yocom,Bert Evans,Rick Day,East,5 & 4,14
+819,2021,Circling Raven,Chapman,1,Todd Forgey,Mike Cole,Mick Martinson,Bob Carnevale,West,5 & 4,14
+820,2021,Circling Raven,Chapman,1,Joel Smith,Mike Rowley,Keith Joyal,Scott Wilson,West,1 up,18
+821,2021,Circling Raven,Chapman,1,Norm Woods,Paul Chrismer,Shayne Day,Grant Cation,West,1 up,18
+822,2021,Circling Raven,Chapman,1,Mark Countryman,Matt Sharp,Bradey Day,Kris Martinson,West,3 & 2,16
+823,2021,Circling Raven,Chapman,1,Francis Santiago,Trey Heffner,Mick Martinson Jr.,Ben Headland,West,2 & 1,17
+824,2021,Circling Raven,Chapman,1,Ben Firman,Terry Firman,Jim Martinson,Alec Martinson,West,3 & 1,17
+825,2021,Circling Raven,Chapman,1,Terry Rossow,Shawn Hedrick,Devin Carle,Bob Goodman,East,2 & 1,17
+826,2021,Circling Raven,Chapman,1,Mark Lewis,Larry Sadler,Matt Evans,Craig Benson,East,5 & 4,14
+827,2021,Circling Raven,Best Ball,2,Joel Smith,Mike Cole,Ben Headland,Kris Martinson,West,2 & 1,17
+828,2021,Circling Raven,Best Ball,2,Todd Forgey,Terry Firman,Grant Cation,Matt Evans,West,4 & 2,16
+829,2021,Circling Raven,Best Ball,2,Norm Woods,Steve Yocom,Bob Goodman,Rick Day,West,3 & 2,16
+830,2021,Circling Raven,Best Ball,2,Trey Heffner,Shawn Hedrick,Devin Carle,Scott Wilson,West,1 up,18
+831,2021,Circling Raven,Best Ball,2,Ben Firman,Francis Santiago,Mick Martinson Jr.,Bradey Day,East,1 up,18
+832,2021,Circling Raven,Best Ball,2,Mark Lewis,Mike Rowley,Mick Martinson,Shayne Day,East,1 up,18
+833,2021,Circling Raven,Best Ball,2,Matt Sharp,Steve Gunn,Craig Benson,Bob Carnevale,West,2 & 1,17
+834,2021,Circling Raven,Best Ball,2,Terry Rossow,Mark Countryman,Jim Martinson,Bert Evans,East,1 up,18
+835,2021,Circling Raven,Best Ball,2,Paul Chrismer,Larry Sadler,Keith Joyal,Alec Martinson,East,1 up,18
+836,2021,Circling Raven,Singles,3,Shawn Hedrick,,Rick Day,,West,4 & 2,16
+837,2021,Circling Raven,Singles,3,Steve Gunn,,Kris Martinson,,East,7 & 6,12
+838,2021,Circling Raven,Singles,3,Larry Sadler,,Matt Evans,,East,2 & 1,17
+839,2021,Circling Raven,Singles,3,Mark Countryman,,Scott Wilson,,West,4 & 2,16
+840,2021,Circling Raven,Singles,3,Norm Woods,,Keith Joyal,,West,4 & 2,16
+841,2021,Circling Raven,Singles,3,Matt Sharp,,Mick Martinson Jr.,,East,5 & 4,14
+842,2021,Circling Raven,Singles,3,Trey Heffner,,Jim Martinson,,West,2 up,18
+843,2021,Circling Raven,Singles,3,Mike Rowley,,Mick Martinson,,West,8 & 6,12
+844,2021,Circling Raven,Singles,3,Ben Firman,,Grant Cation,,East,2 & 1,17
+845,2021,Circling Raven,Singles,3,Joel Smith,,Alec Martinson,,East,2 up,18
+846,2021,Circling Raven,Singles,3,Francis Santiago,,Shayne Day,,West,1 up,18
+847,2021,Circling Raven,Singles,3,Terry Firman,,Ben Headland,,East,3 & 2,16
+848,2021,Circling Raven,Singles,3,Todd Forgey,,Bradey Day,,East,1 up,18
+849,2021,Circling Raven,Singles,3,Mark Lewis,,Bob Goodman,,East,5 & 3,15
+850,2021,Circling Raven,Singles,3,Paul Chrismer,,Bert Evans,,Halved,Halved,18
+851,2021,Circling Raven,Singles,3,Mike Cole,,Bob Carnevale,,West,1 up,18
+852,2021,Circling Raven,Singles,3,Steve Yocom,,Devin Carle,,West,4 & 2,16
+853,2021,Circling Raven,Singles,3,Terry Rossow,,Craig Benson,,West,2 up,18
+854,2022,White Horse,Chapman,1,Matt Dormann,Rick Catlin,Kris Martinson,Alec Martinson,West,1 up,18
+855,2022,White Horse,Chapman,1,Steve Gunn,Mark Lewis,Scott Wilson,Bob Goodman,East,3 & 2,16
+856,2022,White Horse,Chapman,1,Mike Rowley,Jason Burnum,Rick Day,Bradey Day,East,4 & 3,15
+857,2022,White Horse,Chapman,1,Mark Countryman,Bret Hollar,Tommy Armour,Dave Appleby,East,3 & 1,17
+858,2022,White Horse,Chapman,1,Joel Smith,Pete Romano,Jim Martinson,Shayne Day,West,6 & 5,13
+859,2022,White Horse,Chapman,1,Matt Sharp,Shad Sharp,Mick Martinson Jr.,Ben Headland,Halved,Halved,18
+860,2022,White Horse,Chapman,1,Trey Heffner,Shawn Hedrick,Mick Martinson,Bob Carnevale,Halved,Halved,18
+861,2022,White Horse,Chapman,1,Terry Firman,Jack Henry,Matt Evans,Bert Evans,East,4 & 3,15
+862,2022,White Horse,Chapman,1,Terry Rossow,Jake Logsdon,Keith Joyal,Craig Benson,West,2 & 1,17
+863,2022,White Horse,Best Ball,2,Matt Dormann,Shawn Hedrick,Mick Martinson Jr.,Matt Evans,East,1 up,18
+864,2022,White Horse,Best Ball,2,Jeremiah Wileman,Joel Smith,Bob Goodman,Bradey Day,West,2 up,18
+865,2022,White Horse,Best Ball,2,Trey Heffner,Jason Burnum,Kris Martinson,Keith Joyal,West,1 up,18
+866,2022,White Horse,Best Ball,2,Jack Henry,Steve Gunn,Rick Day,Scott Wilson,East,2 up,18
+867,2022,White Horse,Best Ball,2,Mark Countryman,Shad Sharp,Ben Headland,Alec Martinson,West,1 up,18
+868,2022,White Horse,Best Ball,2,Terry Firman,Pete Romano,Tommy Armour,Jim Martinson,East,5 & 3,15
+869,2022,White Horse,Best Ball,2,Terry Rossow,Rick Catlin,Bob Carnevale,Craig Benson,Halved,Halved,18
+870,2022,White Horse,Best Ball,2,Mike Rowley,Mark Lewis,Mick Martinson,Shayne Day,East,6 & 4,14
+871,2022,White Horse,Best Ball,2,Bret Hollar,Matt Sharp,Bert Evans,Dave Appleby,Halved,Halved,18
+872,2022,White Horse,Singles,3,Steve Gunn,,Ben Headland,,West,5 & 3,15
+873,2022,White Horse,Singles,3,Shawn Hedrick,,Matt Evans,,East,8 & 7,11
+874,2022,White Horse,Singles,3,Joel Smith,,Dave Appleby,,West,7 & 6,12
+875,2022,White Horse,Singles,3,Jeremiah Wileman,,Tommy Armour,,Halved,Halved,18
+876,2022,White Horse,Singles,3,Matt Sharp,,Alec Martinson,,West,3 & 2,16
+877,2022,White Horse,Singles,3,Trey Heffner,,Jim Martinson,,East,5 & 4,14
+878,2022,White Horse,Singles,3,Mike Rowley,,Keith Joyal,,East,1 up,18
+879,2022,White Horse,Singles,3,Matt Dormann,,Shayne Day,,East,2 up,18
+880,2022,White Horse,Singles,3,Terry Rossow,,Mick Martinson,,West,4 & 2,16
+881,2022,White Horse,Singles,3,Shad Sharp,,Bert Evans,,East,4 & 2,16
+882,2022,White Horse,Singles,3,Mark Countryman,,Scott Wilson,,Halved,Halved,18
+883,2022,White Horse,Singles,3,Jason Burnum,,Craig Benson,,East,2 up,18
+884,2022,White Horse,Singles,3,Mark Lewis,,Bob Carnevale,,East,3 & 2,16
+885,2022,White Horse,Singles,3,Jack Henry,,Bradey Day,,West,4 & 2,16
+886,2022,White Horse,Singles,3,Pete Romano,,Mick Martinson Jr.,,East,4 & 3,15
+887,2022,White Horse,Singles,3,Rick Catlin,,Rick Day,,East,3 & 2,16
+888,2022,White Horse,Singles,3,Bret Hollar,,Bob Goodman,,East,4 & 3,15
+889,2022,White Horse,Singles,3,Terry Firman,,Kris Martinson,,East,2 up,18
+890,2023,Wildhorse,Chapman,1,Jason Burnum,Mike Rowley,Matt Evans,Don Minklein,East,4 & 3,15
+891,2023,Wildhorse,Chapman,1,Ben Firman,Trey Heffner,Mick Martinson,Bert Evans,East,2 & 1,17
+892,2023,Wildhorse,Chapman,1,Greg Mooney,Matt Sharp,Alec Martinson,Grant Cation,West,3 & 2,16
+893,2023,Wildhorse,Chapman,1,Steve Gunn,Mark Lewis,Bob Goodman,Scott Wilson,East,2 & 1,17
+894,2023,Wildhorse,Chapman,1,Terry Firman,Matt Dormann,Kris Martinson,Bradey Day,East,3 & 1,17
+895,2023,Wildhorse,Chapman,1,Rick Catlin,Pete Romano,Mick Martinson Jr.,Ben Headland,Halved,Halved,18
+896,2023,Wildhorse,Chapman,1,Terry Rossow,Shawn Hedrick,Jim Martinson,Shayne Day,East,1 up,18
+897,2023,Wildhorse,Chapman,1,Mark Countryman,Joel Smith,Keith Joyal,Craig Benson,East,4 & 2,16
+898,2023,Wildhorse,Chapman,1,Bret Hollar,Larry Sadler,Devin Carle,Rick Day,East,3 & 1,17
+899,2023,Wildhorse,Best Ball,2,Larry Sadler,Steve Gunn,Bradey Day,Matt Evans,East,6 & 5,13
+900,2023,Wildhorse,Best Ball,2,Pete Romano,Joel Smith,Bert Evans,Alec Martinson,West,2 & 1,17
+901,2023,Wildhorse,Best Ball,2,Rick Catlin,Trey Heffner,Grant Cation,Devin Carle,East,2 up,18
+902,2023,Wildhorse,Best Ball,2,Terry Firman,Greg Mooney,Mick Martinson Jr.,Kris Martinson,Halved,Halved,18
+903,2023,Wildhorse,Best Ball,2,Ben Firman,Matt Dormann,Don Minklein,Scott Wilson,West,1 up,18
+904,2023,Wildhorse,Best Ball,2,Matt Sharp,Mark Countryman,Mick Martinson,Shayne Day,East,5 & 4,14
+905,2023,Wildhorse,Best Ball,2,Mark Lewis,Mike Rowley,Jim Martinson,Craig Benson,East,4 & 2,16
+906,2023,Wildhorse,Best Ball,2,Shawn Hedrick,Bret Hollar,Keith Joyal,Ben Headland,East,5 & 4,14
+907,2023,Wildhorse,Best Ball,2,Terry Rossow,Jason Burnum,Bob Goodman,Rick Day,West,2 & 1,17
+908,2023,Wildhorse,Singles,3,Jason Burnum,,Keith Joyal,,West,5 & 4,14
+909,2023,Wildhorse,Singles,3,Bret Hollar,,Bob Goodman,,East,1 up,18
+910,2023,Wildhorse,Singles,3,Trey Heffner,,Matt Evans,,East,5 & 4,14
+911,2023,Wildhorse,Singles,3,Mark Lewis,,Devin Carle,,East,7 & 6,12
+912,2023,Wildhorse,Singles,3,Matt Sharp,,Ben Headland,,Halved,Halved,18
+913,2023,Wildhorse,Singles,3,Steve Gunn,,Craig Benson,,East,5 & 4,14
+914,2023,Wildhorse,Singles,3,Joel Smith,,Mick Martinson Jr.,,Halved,Halved,18
+915,2023,Wildhorse,Singles,3,Terry Rossow,,Mick Martinson,,East,3 & 2,16
+916,2023,Wildhorse,Singles,3,Mark Countryman,,Rick Day,,West,3 & 2,16
+917,2023,Wildhorse,Singles,3,Terry Firman,,Scott Wilson,,East,3 & 1,17
+918,2023,Wildhorse,Singles,3,Greg Mooney,,Bert Evans,,East,3 & 2,16
+919,2023,Wildhorse,Singles,3,Pete Romano,,Jim Martinson,,East,5 & 4,14
+920,2023,Wildhorse,Singles,3,Mike Rowley,,Alec Martinson,,West,6 & 5,13
+921,2023,Wildhorse,Singles,3,Shawn Hedrick,,Shayne Day,,West,5 & 4,14
+922,2023,Wildhorse,Singles,3,Matt Dormann,,Kris Martinson,,Halved,Halved,18
+923,2023,Wildhorse,Singles,3,Larry Sadler,,Bradey Day,,West,5 & 3,15
+924,2023,Wildhorse,Singles,3,Ben Firman,,Grant Cation,,West,2 up,18
+925,2023,Wildhorse,Singles,3,Rick Catlin,,Don Minklein,,East,2 & 1,17
+926,2024,North Bellingham,Chapman,1,Joel Smith,Mark Countryman,Bradey Day,Devin Carle,East,3 & 1,17
+927,2024,North Bellingham,Chapman,1,Matt Sharp,Greg Mooney,Mick Martinson Jr.,Ben Headland,East,3 & 2,16
+928,2024,North Bellingham,Chapman,1,Matt Dormann,Trey Heffner,Kris Martinson,Bert Evans,East,1 up,18
+929,2024,North Bellingham,Chapman,1,Terry Firman,Ben Firman,Shayne Day,Jim Martinson,West,3 & 2,16
+930,2024,North Bellingham,Chapman,1,Jason Burnum,Mike Rowley,Keith Joyal,Craig Benson,East,7 & 6,12
+931,2024,North Bellingham,Chapman,1,Shawn Hedrick,Terry Rossow,Grant Cation,Alec Martinson,East,2 up,18
+932,2024,North Bellingham,Chapman,1,Kori Winegar,Larry Sadler,Matt Evans,Bob Goodman,East,5 & 4,14
+933,2024,North Bellingham,Chapman,1,Bret Hollar,Pete Romano,Brian Duffy,Bob Carnevale,West,2 up,18
+934,2024,North Bellingham,Chapman,1,Mark Lewis,Steve Gunn,Rick Day,Scott Wilson,East,6 & 5,13
+935,2024,North Bellingham,Best Ball,2,Jason Burnum,Steve Gunn,Kris Martinson,Bradey Day,Halved,Halved,18
+936,2024,North Bellingham,Best Ball,2,Mark Lewis,Mike Rowley,Devin Carle,Bert Evans,East,1 up,18
+937,2024,North Bellingham,Best Ball,2,Larry Sadler,Terry Rossow,Bob Carnevale,Ben Headland,East,1 up,18
+938,2024,North Bellingham,Best Ball,2,Matt Sharp,Mark Countryman,Jim Martinson,Scott Wilson,West,1 up,18
+939,2024,North Bellingham,Best Ball,2,Shawn Hedrick,Bret Hollar,Craig Benson,Matt Evans,East,5 & 4,14
+940,2024,North Bellingham,Best Ball,2,Matt Dormann,Ben Firman,Grant Cation,Bob Goodman,East,5 & 4,14
+941,2024,North Bellingham,Best Ball,2,Trey Heffner,Greg Mooney,Alec Martinson,Rick Day,East,3 & 2,16
+942,2024,North Bellingham,Best Ball,2,Pete Romano,Terry Firman,Mick Martinson Jr.,Keith Joyal,West,4 & 3,15
+943,2024,North Bellingham,Best Ball,2,Joel Smith,Kori Winegar,Shayne Day,Brian Duffy,Halved,Halved,18
+944,2024,North Bellingham,Singles,3,Greg Mooney,,Keith Joyal,,Halved,Halved,18
+945,2024,North Bellingham,Singles,3,Larry Sadler,,Rick Day,,West,2 up,18
+946,2024,North Bellingham,Singles,3,Mark Lewis,,Ben Headland,,West,3 & 2,16
+947,2024,North Bellingham,Singles,3,Trey Heffner,,Kris Martinson,,East,5 & 3,15
+948,2024,North Bellingham,Singles,3,Steve Gunn,,Bradey Day,,East,1 up,18
+949,2024,North Bellingham,Singles,3,Bret Hollar,,Shayne Day,,West,2 up,18
+950,2024,North Bellingham,Singles,3,Kori Winegar,,Jim Martinson,,East,5 & 3,15
+951,2024,North Bellingham,Singles,3,Shawn Hedrick,,Devin Carle,,West,1 up,18
+952,2024,North Bellingham,Singles,3,Terry Firman,,Grant Cation,,West,3 & 1,17
+953,2024,North Bellingham,Singles,3,Mike Rowley,,Bob Carnevale,,West,2 & 1,17
+954,2024,North Bellingham,Singles,3,Ben Firman,,Mick Martinson Jr.,,West,2 & 1,17
+955,2024,North Bellingham,Singles,3,Pete Romano,,Brian Duffy,,Halved,Halved,18
+956,2024,North Bellingham,Singles,3,Matt Dormann,,Alec Martinson,,West,5 & 4,14
+957,2024,North Bellingham,Singles,3,Matt Sharp,,Bert Evans,,East,2 & 1,17
+958,2024,North Bellingham,Singles,3,Jason Burnum,,Matt Evans,,West,1 up,18
+959,2024,North Bellingham,Singles,3,Mark Countryman,,Craig Benson,,West,1 up,18
+960,2024,North Bellingham,Singles,3,Terry Rossow,,Bob Goodman,,East,2 & 1,17
+961,2024,North Bellingham,Singles,3,Joel Smith,,Scott Wilson,,West,4 & 2,16
+962,2025,Wildhorse,Chapman,1,Shawn Hedrick,Terry Rossow,Mark Detillion,Bob Goodman,West,2 & 1,17
+963,2025,Wildhorse,Chapman,1,Mark Countryman,Joel Smith,Keith Joyal,Phil Sustad,East,1 up,18
+964,2025,Wildhorse,Chapman,1,Mark Lewis,Steve Gunn,Mick Martinson,Bob Carnevale,West,4 & 3,15
+965,2025,Wildhorse,Chapman,1,Matt Dormann,Trey Heffner,Jim Martinson,Shayne Day,East,6 & 5,13
+966,2025,Wildhorse,Chapman,1,Cameron Clark,Greg Mooney,Alec Martinson,Andrew Rousch,East,3 & 2,16
+967,2025,Wildhorse,Chapman,1,Terry Firman,Pete Romano,Kris Martinson,Craig Benson,West,2 & 1,17
+968,2025,Wildhorse,Chapman,1,Larry Sadler,Jason Burnum,Bert Evans,Matt Evans,West,5 & 3,15
+969,2025,Wildhorse,Chapman,1,Bret Hollar,Mike Rowley,Bradey Day,Chris Statton,West,1 up,18
+970,2025,Wildhorse,Chapman,1,Matt Sharp,Rick Catlin,Scott Wilson,Ben Headland,Halved,Halved,18
+971,2025,Wildhorse,Best Ball,2,Bret Hollar,Shawn Hedrick,Mark Detillion,Chris Statton,East,1 up,18
+972,2025,Wildhorse,Best Ball,2,Larry Sadler,Steve Gunn,Bradey Day,Andrew Rousch,West,7 & 5,13
+973,2025,Wildhorse,Best Ball,2,Mark Countryman,Pete Romano,Craig Benson,Matt Evans,East,2 & 1,17
+974,2025,Wildhorse,Best Ball,2,Terry Firman,Matt Sharp,Bob Carnevale,Bert Evans,East,3 & 1,17
+975,2025,Wildhorse,Best Ball,2,Mike Rowley,Mark Lewis,Jim Martinson,Ben Headland,West,8 & 6,12
+976,2025,Wildhorse,Best Ball,2,Jason Burnum,Trey Heffner,Kris Martinson,Alec Martinson,East,3 & 1,17
+977,2025,Wildhorse,Best Ball,2,Kori Winegar,Terry Rossow,Bob Goodman,Phil Sustad,East,4 & 3,15
+978,2025,Wildhorse,Best Ball,2,Greg Mooney,Joel Smith,Mick Martinson,Shayne Day,East,4 & 3,15
+979,2025,Wildhorse,Best Ball,2,Matt Dormann,Cameron Clark,Scott Wilson,Keith Joyal,East,4 & 3,15
+980,2025,Wildhorse,Singles,3,Terry Rossow,,Kris Martinson,,West,3 & 2,16
+981,2025,Wildhorse,Singles,3,Jason Burnum,,Ben Headland,,West,6 & 5,13
+982,2025,Wildhorse,Singles,3,Mark Countryman,,Mark Detillion,,East,3 & 2,16
+983,2025,Wildhorse,Singles,3,Kori Winegar,,Andrew Rousch,,West,2 up,18
+984,2025,Wildhorse,Singles,3,Matt Dormann,,Bert Evans,,West,2 & 1,17
+985,2025,Wildhorse,Singles,3,Cameron Clark,,Alec Martinson,,West,3 & 2,16
+986,2025,Wildhorse,Singles,3,Mike Rowley,,Mick Martinson,,East,3 & 2,16
+987,2025,Wildhorse,Singles,3,Greg Mooney,,Jim Martinson,,West,1 up,18
+988,2025,Wildhorse,Singles,3,Terry Firman,,Keith Joyal,,East,3 & 2,16
+989,2025,Wildhorse,Singles,3,Steve Gunn,,Bob Goodman,,West,2 up,18
+990,2025,Wildhorse,Singles,3,Pete Romano,,Scott Wilson,,Halved,Halved,18
+991,2025,Wildhorse,Singles,3,Shawn Hedrick,,Matt Evans,,East,4 & 3,15
+992,2025,Wildhorse,Singles,3,Mark Lewis,,Bradey Day,,East,1 up,18
+993,2025,Wildhorse,Singles,3,Matt Sharp,,Shayne Day,,East,7 & 6,12
+994,2025,Wildhorse,Singles,3,Joel Smith,,Bob Carnevale,,West,4 & 3,15
+995,2025,Wildhorse,Singles,3,Trey Heffner,,Craig Benson,,East,2 & 1,17
+996,2025,Wildhorse,Singles,3,Bret Hollar,,Phil Sustad,,Halved,Halved,18
+997,2025,Wildhorse,Singles,3,Larry Sadler,,Chris Statton,,Halved,Halved,18
